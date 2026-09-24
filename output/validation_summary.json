@@ -1,0 +1,19 @@
+{
+  "source_sheet": "Sheet1",
+  "source_rows": 70,
+  "output_rows": 70,
+  "source_sha256": "e8ce6739d50c8840ae2345dae3cb5be601c719f42a02b8661d58bf6e66a78dfe",
+  "with_coordinates": 69,
+  "status_counts": {
+    "name_and_query_agreement": 39,
+    "reviewed_match": 26,
+    "needs_review": 4,
+    "unresolved": 1
+  },
+  "district_counts": {
+    "Keonjhar": 11,
+    "Koraput": 14,
+    "Angul": 21,
+    "Dhenkanal": 24
+  }
+}

@@ -1,0 +1,3255 @@
+[
+  {
+    "row": {
+      "Sr. No.": 1,
+      "District": "Keonjhar",
+      "Block": "Banspal",
+      "Panchayat": "Jatra",
+      "Remarks": "FES",
+      "Generated": "Already generated & active",
+      "Comments": "Banspal block falls in tehsil - Keonjhar (Kendujhar)"
+    },
+    "searches": [
+      {
+        "query": "Jatra, Banspal, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Jatra%2C+Banspal%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:51.005067+00:00",
+        "candidates": [
+          {
+            "name": "Jatra",
+            "address": "Jatra, Odisha 758085",
+            "lat": 21.6464426,
+            "long": 85.3678783,
+            "google_id": "0x3a1f0e623b4f58b9:0xd20a02f7faf3c3ae",
+            "place_id": "ChIJuVhPO2IOHzoRrsPz-vcCCtI",
+            "maps_url": "https://www.google.com/maps/preview/place/Jatra,+Odisha+758085/@21.6464426,85.3678783,3708a,13.1y/data=!4m2!3m1!1s0x3a1f0e623b4f58b9:0xd20a02f7faf3c3ae"
+          }
+        ]
+      },
+      {
+        "query": "Jatra, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Jatra%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:51.755810+00:00",
+        "candidates": [
+          {
+            "name": "Jatra",
+            "address": "Jatra, Odisha 758085",
+            "lat": 21.6464426,
+            "long": 85.3678783,
+            "google_id": "0x3a1f0e623b4f58b9:0xd20a02f7faf3c3ae",
+            "place_id": "ChIJuVhPO2IOHzoRrsPz-vcCCtI",
+            "maps_url": "https://www.google.com/maps/preview/place/Jatra,+Odisha+758085/@21.6464426,85.3678783,3708a,13.1y/data=!4m2!3m1!1s0x3a1f0e623b4f58b9:0xd20a02f7faf3c3ae"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 2,
+      "District": "Keonjhar",
+      "Block": "Banspal",
+      "Panchayat": "Gonasika",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Gonasika, Banspal, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Gonasika%2C+Banspal%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:52.834883+00:00",
+        "candidates": [
+          {
+            "name": "Gonasika",
+            "address": "Gonasika, Odisha 758018",
+            "lat": 21.538886599999998,
+            "long": 85.5135858,
+            "google_id": "0x3a1f1b8e8c222b0b:0x9f0892d4bb20aa46",
+            "place_id": "ChIJCysijI4bHzoRRqogu9SSCJ8",
+            "maps_url": "https://www.google.com/maps/preview/place/Gonasika,+Odisha+758018/@21.5388866,85.5135858,3711a,13.1y/data=!4m2!3m1!1s0x3a1f1b8e8c222b0b:0x9f0892d4bb20aa46"
+          }
+        ]
+      },
+      {
+        "query": "Gonasika, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Gonasika%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:53.872438+00:00",
+        "candidates": [
+          {
+            "name": "Gonasika",
+            "address": "Gonasika, Odisha 758018",
+            "lat": 21.538886599999998,
+            "long": 85.5135858,
+            "google_id": "0x3a1f1b8e8c222b0b:0x9f0892d4bb20aa46",
+            "place_id": "ChIJCysijI4bHzoRRqogu9SSCJ8",
+            "maps_url": "https://www.google.com/maps/preview/place/Gonasika,+Odisha+758018/@21.5388866,85.5135858,3711a,13.1y/data=!4m2!3m1!1s0x3a1f1b8e8c222b0b:0x9f0892d4bb20aa46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 3,
+      "District": "Keonjhar",
+      "Block": "Banspal",
+      "Panchayat": "Suakati",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Suakati, Banspal, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Suakati%2C+Banspal%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:54.930599+00:00",
+        "candidates": [
+          {
+            "name": "Suakati",
+            "address": "Suakati, Odisha 758018",
+            "lat": 21.6043925,
+            "long": 85.5161612,
+            "google_id": "0x3a1f1b54a9c99267:0x86975f27c5de805",
+            "place_id": "ChIJZ5LJqVQbHzoRBehdfPJ1aQg",
+            "maps_url": "https://www.google.com/maps/preview/place/Suakati,+Odisha+758018/@21.6043925,85.5161612,3710a,13.1y/data=!4m2!3m1!1s0x3a1f1b54a9c99267:0x86975f27c5de805"
+          }
+        ]
+      },
+      {
+        "query": "Suakati, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Suakati%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:55.647004+00:00",
+        "candidates": [
+          {
+            "name": "Suakati",
+            "address": "Suakati, Odisha 758018",
+            "lat": 21.6043925,
+            "long": 85.5161612,
+            "google_id": "0x3a1f1b54a9c99267:0x86975f27c5de805",
+            "place_id": "ChIJZ5LJqVQbHzoRBehdfPJ1aQg",
+            "maps_url": "https://www.google.com/maps/preview/place/Suakati,+Odisha+758018/@21.6043925,85.5161612,3710a,13.1y/data=!4m2!3m1!1s0x3a1f1b54a9c99267:0x86975f27c5de805"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 4,
+      "District": "Keonjhar",
+      "Block": "Banspal",
+      "Panchayat": "Karangadihi",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Karangadihi, Banspal, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Karangadihi%2C+Banspal%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:56.765973+00:00",
+        "candidates": [
+          {
+            "name": "Karangadihi",
+            "address": "Karangadihi, Odisha 758085",
+            "lat": 21.5789972,
+            "long": 85.4568968,
+            "google_id": "0x3a1f1a952dec8621:0x5bbd5586ac9702b7",
+            "place_id": "ChIJIYbsLZUaHzoRtwKXrIZVvVs",
+            "maps_url": "https://www.google.com/maps/preview/place/Karangadihi,+Odisha+758085/@21.5789972,85.4568968,3710a,13.1y/data=!4m2!3m1!1s0x3a1f1a952dec8621:0x5bbd5586ac9702b7"
+          }
+        ]
+      },
+      {
+        "query": "Karangadihi, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Karangadihi%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:57.868015+00:00",
+        "candidates": [
+          {
+            "name": "Karangadihi",
+            "address": "Karangadihi, Odisha 758085",
+            "lat": 21.5789972,
+            "long": 85.4568968,
+            "google_id": "0x3a1f1a952dec8621:0x5bbd5586ac9702b7",
+            "place_id": "ChIJIYbsLZUaHzoRtwKXrIZVvVs",
+            "maps_url": "https://www.google.com/maps/preview/place/Karangadihi,+Odisha+758085/@21.5789972,85.4568968,3710a,13.1y/data=!4m2!3m1!1s0x3a1f1a952dec8621:0x5bbd5586ac9702b7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 5,
+      "District": "Keonjhar",
+      "Block": "Patana",
+      "Panchayat": "Chakundapal",
+      "Remarks": "Control",
+      "Generated": "Already generated & active",
+      "Comments": "Patana block falls in tehsil - Keonjhar (Kendujhar)"
+    },
+    "searches": [
+      {
+        "query": "Chakundapal, Patana, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Chakundapal%2C+Patana%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:58.673981+00:00",
+        "candidates": [
+          {
+            "name": "Chakundapal",
+            "address": "Chakundapal, Odisha 758017",
+            "lat": 21.6750901,
+            "long": 85.7743536,
+            "google_id": "0x3a1ef0907e8e363b:0x8e96d2f511d8ac02",
+            "place_id": "ChIJOzaOfpDwHjoRAqzYEfXSlo4",
+            "maps_url": "https://www.google.com/maps/preview/place/Chakundapal,+Odisha+758017/@21.6750901,85.7743536,3708a,13.1y/data=!4m2!3m1!1s0x3a1ef0907e8e363b:0x8e96d2f511d8ac02"
+          }
+        ]
+      },
+      {
+        "query": "Chakundapal, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Chakundapal%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:08:59.686602+00:00",
+        "candidates": [
+          {
+            "name": "Chakundapal",
+            "address": "Chakundapal, Odisha 758017",
+            "lat": 21.6750901,
+            "long": 85.7743536,
+            "google_id": "0x3a1ef0907e8e363b:0x8e96d2f511d8ac02",
+            "place_id": "ChIJOzaOfpDwHjoRAqzYEfXSlo4",
+            "maps_url": "https://www.google.com/maps/preview/place/Chakundapal,+Odisha+758017/@21.6750901,85.7743536,3708a,13.1y/data=!4m2!3m1!1s0x3a1ef0907e8e363b:0x8e96d2f511d8ac02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 6,
+      "District": "Keonjhar",
+      "Block": "Ghatagaon",
+      "Panchayat": "Purumunda",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Purumunda, Ghatagaon, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Purumunda%2C+Ghatagaon%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:00.775204+00:00",
+        "candidates": [
+          {
+            "name": "Purumunda",
+            "address": "Purumunda, Odisha 758087",
+            "lat": 21.4657926,
+            "long": 85.73333219999999,
+            "google_id": "0x3a1ee7ac8d224075:0x729817af9d448cee",
+            "place_id": "ChIJdUAijaznHjoR7oxEna8XmHI",
+            "maps_url": "https://www.google.com/maps/preview/place/Purumunda,+Odisha+758087/@21.4657926,85.7333322,3713a,13.1y/data=!4m2!3m1!1s0x3a1ee7ac8d224075:0x729817af9d448cee"
+          }
+        ]
+      },
+      {
+        "query": "Purumunda, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Purumunda%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:02.015311+00:00",
+        "candidates": [
+          {
+            "name": "Purumunda",
+            "address": "Purumunda, Odisha 758087",
+            "lat": 21.4657926,
+            "long": 85.73333219999999,
+            "google_id": "0x3a1ee7ac8d224075:0x729817af9d448cee",
+            "place_id": "ChIJdUAijaznHjoR7oxEna8XmHI",
+            "maps_url": "https://www.google.com/maps/preview/place/Purumunda,+Odisha+758087/@21.4657926,85.7333322,3713a,13.1y/data=!4m2!3m1!1s0x3a1ee7ac8d224075:0x729817af9d448cee"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 7,
+      "District": "Keonjhar",
+      "Block": "Banspal",
+      "Panchayat": "Talakainsari",
+      "Remarks": "Control",
+      "Generated": "Already generated & active",
+      "Comments": "Banspal block falls in tehsil - Keonjhar (Kendujhar)"
+    },
+    "searches": [
+      {
+        "query": "Talakainsari, Banspal, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Talakainsari%2C+Banspal%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:03.090169+00:00",
+        "candidates": [
+          {
+            "name": "Talakainsari",
+            "address": "Talakainsari, Odisha 758018",
+            "lat": 21.6151433,
+            "long": 85.5567068,
+            "google_id": "0x3a1f032921d512d7:0x79baeb450328311b",
+            "place_id": "ChIJ1xLVISkDHzoRGzEoA0Xrunk",
+            "maps_url": "https://www.google.com/maps/preview/place/Talakainsari,+Odisha+758018/@21.6151433,85.5567068,3709a,13.1y/data=!4m2!3m1!1s0x3a1f032921d512d7:0x79baeb450328311b"
+          }
+        ]
+      },
+      {
+        "query": "Talakainsari, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Talakainsari%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:03.803549+00:00",
+        "candidates": [
+          {
+            "name": "Talakainsari",
+            "address": "Talakainsari, Odisha 758018",
+            "lat": 21.6151433,
+            "long": 85.5567068,
+            "google_id": "0x3a1f032921d512d7:0x79baeb450328311b",
+            "place_id": "ChIJ1xLVISkDHzoRGzEoA0Xrunk",
+            "maps_url": "https://www.google.com/maps/preview/place/Talakainsari,+Odisha+758018/@21.6151433,85.5567068,3709a,13.1y/data=!4m2!3m1!1s0x3a1f032921d512d7:0x79baeb450328311b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 8,
+      "District": "Keonjhar",
+      "Block": "Patana",
+      "Panchayat": "Rajnagar",
+      "Remarks": "Control",
+      "Generated": "Already generated & active",
+      "Comments": "Patana block falls in tehsil - Keonjhar (Kendujhar)"
+    },
+    "searches": [
+      {
+        "query": "Rajnagar, Patana, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Rajnagar%2C+Patana%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:04.955362+00:00",
+        "candidates": [
+          {
+            "name": "Rajnagar",
+            "address": "Rajnagar, Odisha 758017",
+            "lat": 21.7637333,
+            "long": 85.8089406,
+            "google_id": "0x3a1ef7ae3529e6c5:0x3679cef10ab27b36",
+            "place_id": "ChIJxeYpNa73HjoRNnuyCvHOeTY",
+            "maps_url": "https://www.google.com/maps/preview/place/Rajnagar,+Odisha+758017/@21.7637333,85.8089406,3705a,13.1y/data=!4m2!3m1!1s0x3a1ef7ae3529e6c5:0x3679cef10ab27b36"
+          }
+        ]
+      },
+      {
+        "query": "Rajnagar, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Rajnagar%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:06.065765+00:00",
+        "candidates": [
+          {
+            "name": "Rajnagar",
+            "address": "Rajnagar, Odisha 758017",
+            "lat": 21.7637333,
+            "long": 85.8089406,
+            "google_id": "0x3a1ef7ae3529e6c5:0x3679cef10ab27b36",
+            "place_id": "ChIJxeYpNa73HjoRNnuyCvHOeTY",
+            "maps_url": "https://www.google.com/maps/preview/place/Rajnagar,+Odisha+758017/@21.7637333,85.8089406,3705a,13.1y/data=!4m2!3m1!1s0x3a1ef7ae3529e6c5:0x3679cef10ab27b36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 9,
+      "District": "Keonjhar",
+      "Block": "Ghatagaon",
+      "Panchayat": "Pandapada",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Pandapada, Ghatagaon, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Pandapada%2C+Ghatagaon%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:07.170005+00:00",
+        "candidates": [
+          {
+            "name": "Pandapada",
+            "address": "Pandapada, Odisha 758087",
+            "lat": 21.465967,
+            "long": 85.69644989999999,
+            "google_id": "0x3a1ee7279562dc1f:0xf35939472fe9fd42",
+            "place_id": "ChIJH9xilSfnHjoRQv3pL0c5WfM",
+            "maps_url": "https://www.google.com/maps/preview/place/Pandapada,+Odisha+758087/@21.465967,85.6964499,3713a,13.1y/data=!4m2!3m1!1s0x3a1ee7279562dc1f:0xf35939472fe9fd42"
+          }
+        ]
+      },
+      {
+        "query": "Pandapada, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Pandapada%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:08.223872+00:00",
+        "candidates": [
+          {
+            "name": "Pandapada",
+            "address": "Pandapada, Odisha 758087",
+            "lat": 21.465967,
+            "long": 85.69644989999999,
+            "google_id": "0x3a1ee7279562dc1f:0xf35939472fe9fd42",
+            "place_id": "ChIJH9xilSfnHjoRQv3pL0c5WfM",
+            "maps_url": "https://www.google.com/maps/preview/place/Pandapada,+Odisha+758087/@21.465967,85.6964499,3713a,13.1y/data=!4m2!3m1!1s0x3a1ee7279562dc1f:0xf35939472fe9fd42"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 10,
+      "District": "Keonjhar",
+      "Block": "Patana",
+      "Panchayat": "Tangarpada",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": "Patana block falls in tehsil - Keonjhar (Kendujhar)"
+    },
+    "searches": [
+      {
+        "query": "Tangarpada, Patana, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Tangarpada%2C+Patana%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:09.306158+00:00",
+        "candidates": [
+          {
+            "name": "Tangarpada",
+            "address": "Tangarpada, Odisha 758030",
+            "lat": 21.6651192,
+            "long": 85.8511827,
+            "google_id": "0x3a1ef17ff76895df:0x49ce932830be6a67",
+            "place_id": "ChIJ35Vo93_xHjoRZ2q-MCiTzkk",
+            "maps_url": "https://www.google.com/maps/preview/place/Tangarpada,+Odisha+758030/@21.6651192,85.8511827,3708a,13.1y/data=!4m2!3m1!1s0x3a1ef17ff76895df:0x49ce932830be6a67"
+          }
+        ]
+      },
+      {
+        "query": "Tangarpada, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Tangarpada%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:10.015241+00:00",
+        "candidates": [
+          {
+            "name": "Tangarpada",
+            "address": "Tangarpada, Odisha 758030",
+            "lat": 21.6651192,
+            "long": 85.8511827,
+            "google_id": "0x3a1ef17ff76895df:0x49ce932830be6a67",
+            "place_id": "ChIJ35Vo93_xHjoRZ2q-MCiTzkk",
+            "maps_url": "https://www.google.com/maps/preview/place/Tangarpada,+Odisha+758030/@21.6651192,85.8511827,3708a,13.1y/data=!4m2!3m1!1s0x3a1ef17ff76895df:0x49ce932830be6a67"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 11,
+      "District": "Keonjhar",
+      "Block": "Patana",
+      "Panchayat": "Kendeiposi",
+      "Remarks": "Control",
+      "Generated": "Already generated & active",
+      "Comments": "Patana block falls in tehsil - Keonjhar (Kendujhar)"
+    },
+    "searches": [
+      {
+        "query": "Kendeiposi, Patana, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kendeiposi%2C+Patana%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:11.151919+00:00",
+        "candidates": [
+          {
+            "name": "Kendeipasi",
+            "address": "Kendeipasi, Odisha 758017",
+            "lat": 21.6934599,
+            "long": 85.7948524,
+            "google_id": "0x3a1ef0c6875ceaaf:0x2dacf37eb084d7e8",
+            "place_id": "ChIJr-pch8bwHjoR6NeEsH7zrC0",
+            "maps_url": "https://www.google.com/maps/preview/place/Kendeipasi,+Odisha+758017/@21.6934599,85.7948524,3707a,13.1y/data=!4m2!3m1!1s0x3a1ef0c6875ceaaf:0x2dacf37eb084d7e8"
+          }
+        ]
+      },
+      {
+        "query": "Kendeiposi, Keonjhar, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kendeiposi%2C+Keonjhar%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:12.297218+00:00",
+        "candidates": [
+          {
+            "name": "Kendeipasi",
+            "address": "Kendeipasi, Odisha 758017",
+            "lat": 21.6934599,
+            "long": 85.7948524,
+            "google_id": "0x3a1ef0c6875ceaaf:0x2dacf37eb084d7e8",
+            "place_id": "ChIJr-pch8bwHjoR6NeEsH7zrC0",
+            "maps_url": "https://www.google.com/maps/preview/place/Kendeipasi,+Odisha+758017/@21.6934599,85.7948524,3707a,13.1y/data=!4m2!3m1!1s0x3a1ef0c6875ceaaf:0x2dacf37eb084d7e8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 12,
+      "District": "Koraput",
+      "Block": "Borigumma",
+      "Panchayat": "Bijapur",
+      "Remarks": "LSFP",
+      "Generated": "Generated ",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Bijapur, Borigumma, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bijapur%2C+Borigumma%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:13.391666+00:00",
+        "candidates": [
+          {
+            "name": "Bijapur",
+            "address": "Bijapur, Odisha 764056",
+            "lat": 19.0691232,
+            "long": 82.52063319999999,
+            "google_id": "0x3a3abfb38d9a4e21:0xdc93fda89e67927",
+            "place_id": "ChIJIU6ajbO_OjoRJ3nmido_yQ0",
+            "maps_url": "https://www.google.com/maps/preview/place/Bijapur,+Odisha+764056/@19.0691232,82.5206332,3771a,13.1y/data=!4m2!3m1!1s0x3a3abfb38d9a4e21:0xdc93fda89e67927"
+          }
+        ]
+      },
+      {
+        "query": "Bijapur, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bijapur%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:14.444437+00:00",
+        "candidates": [
+          {
+            "name": "Bijapur",
+            "address": "Bijapur, Odisha 764056",
+            "lat": 19.0691232,
+            "long": 82.52063319999999,
+            "google_id": "0x3a3abfb38d9a4e21:0xdc93fda89e67927",
+            "place_id": "ChIJIU6ajbO_OjoRJ3nmido_yQ0",
+            "maps_url": "https://www.google.com/maps/preview/place/Bijapur,+Odisha+764056/@19.0691232,82.5206332,3771a,13.1y/data=!4m2!3m1!1s0x3a3abfb38d9a4e21:0xdc93fda89e67927"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 13,
+      "District": "Koraput",
+      "Block": "Borigumma",
+      "Panchayat": "Sargiguda",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Sargiguda, Borigumma, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sargiguda%2C+Borigumma%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:15.582832+00:00",
+        "candidates": [
+          {
+            "name": "Sargiguda",
+            "address": "Sargiguda, Odisha",
+            "lat": 18.9874254,
+            "long": 82.4021319,
+            "google_id": "0x3a3a979d12629c3f:0x7126077a51097700",
+            "place_id": "ChIJP5xiEp2XOjoRAHcJUXoHJnE",
+            "maps_url": null
+          },
+          {
+            "name": "Borigumma",
+            "address": "Borigumma, Odisha 764056",
+            "lat": 19.0517161,
+            "long": 82.5486131,
+            "google_id": "0x3a3abffa8d1836b5:0x43dc280ce43b79e5",
+            "place_id": "ChIJtTYYjfq_OjoR5Xk75Awo3EM",
+            "maps_url": null
+          },
+          {
+            "name": "Sargiguda",
+            "address": "Sargiguda, Odisha 764081",
+            "lat": 18.5794913,
+            "long": 82.5686247,
+            "google_id": "0x3a3a5e1ac7ceb913:0xd170c4a5ae6852e0",
+            "place_id": "ChIJE7nOxxpeOjoR4FJorqXEcNE",
+            "maps_url": null
+          }
+        ]
+      },
+      {
+        "query": "Sargiguda, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sargiguda%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:16.649974+00:00",
+        "candidates": [
+          {
+            "name": "Sargiguda",
+            "address": "Sargiguda, Odisha 764081",
+            "lat": 18.5794913,
+            "long": 82.5686247,
+            "google_id": "0x3a3a5e1ac7ceb913:0xd170c4a5ae6852e0",
+            "place_id": "ChIJE7nOxxpeOjoR4FJorqXEcNE",
+            "maps_url": "https://www.google.com/maps/preview/place/Sargiguda,+Odisha+764081/@18.5794913,82.5686247,3782a,13.1y/data=!4m2!3m1!1s0x3a3a5e1ac7ceb913:0xd170c4a5ae6852e0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 14,
+      "District": "Koraput",
+      "Block": "Borigumma",
+      "Panchayat": "Benasur",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Benasur, Borigumma, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Benasur%2C+Borigumma%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:17.699714+00:00",
+        "candidates": [
+          {
+            "name": "Benasur",
+            "address": "Benasur, Odisha 764056",
+            "lat": 19.034687599999998,
+            "long": 82.62133109999999,
+            "google_id": "0x3a3aea778f09acf7:0xe73c2f6fdbf1716e",
+            "place_id": "ChIJ96wJj3fqOjoRbnHx228vPOc",
+            "maps_url": "https://www.google.com/maps/preview/place/Benasur,+Odisha+764056/@19.0346876,82.6213311,3772a,13.1y/data=!4m2!3m1!1s0x3a3aea778f09acf7:0xe73c2f6fdbf1716e"
+          }
+        ]
+      },
+      {
+        "query": "Benasur, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Benasur%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:18.773734+00:00",
+        "candidates": [
+          {
+            "name": "Benasur",
+            "address": "Benasur, Odisha 764056",
+            "lat": 19.034687599999998,
+            "long": 82.62133109999999,
+            "google_id": "0x3a3aea778f09acf7:0xe73c2f6fdbf1716e",
+            "place_id": "ChIJ96wJj3fqOjoRbnHx228vPOc",
+            "maps_url": "https://www.google.com/maps/preview/place/Benasur,+Odisha+764056/@19.0346876,82.6213311,3772a,13.1y/data=!4m2!3m1!1s0x3a3aea778f09acf7:0xe73c2f6fdbf1716e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 15,
+      "District": "Koraput",
+      "Block": "Kundra",
+      "Panchayat": "Kerimiti",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": "Kundra blocks falls in tehsil - Jaypur"
+    },
+    "searches": [
+      {
+        "query": "Kerimiti, Kundra, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kerimiti%2C+Kundra%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:19.859817+00:00",
+        "candidates": [
+          {
+            "name": "Kerimiti",
+            "address": "Kerimiti, Odisha 764014",
+            "lat": 18.9628201,
+            "long": 83.17427909999999,
+            "google_id": "0x3a3b13f9dfe5edd7:0x512e0569c1513739",
+            "place_id": "ChIJ1-3l3_kTOzoROTdRwWkFLlE",
+            "maps_url": "https://www.google.com/maps/preview/place/Kerimiti,+Odisha+764014/@18.9628201,83.1742791,3773a,13.1y/data=!4m2!3m1!1s0x3a3b13f9dfe5edd7:0x512e0569c1513739"
+          }
+        ]
+      },
+      {
+        "query": "Kerimiti, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kerimiti%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:20.901281+00:00",
+        "candidates": [
+          {
+            "name": "Kerimiti",
+            "address": "Kerimiti, Odisha 764014",
+            "lat": 18.9628201,
+            "long": 83.17427909999999,
+            "google_id": "0x3a3b13f9dfe5edd7:0x512e0569c1513739",
+            "place_id": "ChIJ1-3l3_kTOzoROTdRwWkFLlE",
+            "maps_url": "https://www.google.com/maps/preview/place/Kerimiti,+Odisha+764014/@18.9628201,83.1742791,3773a,13.1y/data=!4m2!3m1!1s0x3a3b13f9dfe5edd7:0x512e0569c1513739"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 16,
+      "District": "Koraput",
+      "Block": "Kundra",
+      "Panchayat": "Bhusangaguda",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Bhusangaguda, Kundra, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bhusangaguda%2C+Kundra%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:21.922160+00:00",
+        "candidates": [
+          {
+            "name": "Kundra - Jeypore Rd",
+            "address": "Kundra - Jeypore Rd, Odisha 764002",
+            "lat": 18.9233461,
+            "long": 82.4360075,
+            "google_id": "0x3a3a90a8bd8dbba3:0x35eb0a69260bd85a",
+            "place_id": "ChIJo7uNvaiQOjoRWtgLJmkK6zU",
+            "maps_url": "https://www.google.com/maps/preview/place/Kundra+-+Jeypore+Rd,+Odisha+764002/@18.9233461,82.4360075,3774a,13.1y/data=!4m2!3m1!1s0x3a3a90a8bd8dbba3:0x35eb0a69260bd85a"
+          }
+        ]
+      },
+      {
+        "query": "Bhusangaguda, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bhusangaguda%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:22.949840+00:00",
+        "candidates": [
+          {
+            "name": "Bhusangaguda",
+            "address": "Bhusangaguda, Odisha 764002",
+            "lat": 18.976282899999998,
+            "long": 82.4183927,
+            "google_id": "0x3a3a970effdc4155:0x792e56376fbb69c5",
+            "place_id": "ChIJVUHc_w6XOjoRxWm7bzdWLnk",
+            "maps_url": "https://www.google.com/maps/preview/place/Bhusangaguda,+Odisha+764002/@18.9762829,82.4183927,3773a,13.1y/data=!4m2!3m1!1s0x3a3a970effdc4155:0x792e56376fbb69c5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 17,
+      "District": "Koraput",
+      "Block": "Kundra",
+      "Panchayat": "Dangarpaunsi",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Dangarpaunsi, Kundra, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Dangarpaunsi%2C+Kundra%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:24.024754+00:00",
+        "candidates": [
+          {
+            "name": "Kundra - Jeypore Rd & Dangarpaunsi Rd",
+            "address": "Kundra - Jeypore Rd & Dangarpaunsi Rd, Bhejahandi, Odisha 764002",
+            "lat": 18.924547,
+            "long": 82.4348456,
+            "google_id": "0x3a3a91264d8f9fd9:0xbcc466888f60e118",
+            "place_id": "ImYiZAoUChIJ2Z-PTSaROjoRGOFgj4hmxLwSFAoSCdmfj00mkTo6ERjhYI-IZsS8GhQKEgmju429qJA6OhFa2AsmaQrrNRoUChIJrUzHgCiROjoROUoqbBQSeYMiCg0eqEcLFSiPIjE",
+            "maps_url": "https://www.google.com/maps/preview/place/Kundra+-+Jeypore+Rd+%26+Dangarpaunsi+Rd,+Bhejahandi,+Odisha+764002/@18.924547,82.4348456,3774a,13.1y/data=!4m2!3m1!1s0x3a3a91264d8f9fd9:0xbcc466888f60e118"
+          }
+        ]
+      },
+      {
+        "query": "Dangarpaunsi, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Dangarpaunsi%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:25.087672+00:00",
+        "candidates": [
+          {
+            "name": "Dangarpaunsi",
+            "address": "Dangarpaunsi, Odisha 764002",
+            "lat": 18.928292499999998,
+            "long": 82.4360044,
+            "google_id": "0x3a3a9128e893a2cd:0x994ca4418e23b9dc",
+            "place_id": "ChIJzaKT6CiROjoR3LkjjkGkTJk",
+            "maps_url": "https://www.google.com/maps/preview/place/Dangarpaunsi,+Odisha+764002/@18.9282925,82.4360044,3774a,13.1y/data=!4m2!3m1!1s0x3a3a9128e893a2cd:0x994ca4418e23b9dc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 18,
+      "District": "Koraput",
+      "Block": "Pottangi",
+      "Panchayat": "Sambai",
+      "Remarks": "FES",
+      "Generated": "Already generated & active",
+      "Comments": "Pottangi block falls in tehsil- Nandapur"
+    },
+    "searches": [
+      {
+        "query": "Sambai, Pottangi, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sambai%2C+Pottangi%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:26.164842+00:00",
+        "candidates": [
+          {
+            "name": "Sambai",
+            "address": "Sambai, Odisha 764039",
+            "lat": 18.4358666,
+            "long": 82.8693672,
+            "google_id": "0x3a3a4cf873a67dc7:0xb2536892d629e1be",
+            "place_id": "ChIJx32mc_hMOjoRvuEp1pJoU7I",
+            "maps_url": "https://www.google.com/maps/preview/place/Sambai,+Odisha+764039/@18.4358666,82.8693672,3785a,13.1y/data=!4m2!3m1!1s0x3a3a4cf873a67dc7:0xb2536892d629e1be"
+          }
+        ]
+      },
+      {
+        "query": "Sambai, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sambai%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:27.209585+00:00",
+        "candidates": [
+          {
+            "name": "Sambai",
+            "address": "Sambai, Odisha 764039",
+            "lat": 18.4358666,
+            "long": 82.8693672,
+            "google_id": "0x3a3a4cf873a67dc7:0xb2536892d629e1be",
+            "place_id": "ChIJx32mc_hMOjoRvuEp1pJoU7I",
+            "maps_url": "https://www.google.com/maps/preview/place/Sambai,+Odisha+764039/@18.4358666,82.8693672,3785a,13.1y/data=!4m2!3m1!1s0x3a3a4cf873a67dc7:0xb2536892d629e1be"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 19,
+      "District": "Koraput",
+      "Block": "Pottangi",
+      "Panchayat": "Gangarajpi",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Gangarajpi, Pottangi, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Gangarajpi%2C+Pottangi%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:28.319899+00:00",
+        "candidates": []
+      },
+      {
+        "query": "Gangarajpi, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Gangarajpi%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:29.067032+00:00",
+        "candidates": [
+          {
+            "name": "Koraput",
+            "address": "Koraput, Odisha 764020",
+            "lat": 18.813487,
+            "long": 82.71233269999999,
+            "google_id": "0x3a3af05dc359e0eb:0x659b6a7d5b4ce3db",
+            "place_id": "ChIJ6-BZw13wOjoR2-NMW31qm2U",
+            "maps_url": null
+          },
+          {
+            "name": "Koraput city view point",
+            "address": "QPV6+46W Koraput city view point, Koraput, Odisha 764021",
+            "lat": 18.7927808,
+            "long": 82.710644,
+            "google_id": "0x3a3af1f45ba33a33:0xeda536a232451ae8",
+            "place_id": "ChIJMzqjW_TxOjoR6BpFMqI2pe0",
+            "maps_url": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 20,
+      "District": "Koraput",
+      "Block": "Pottangi",
+      "Panchayat": "Kotia",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kotia, Pottangi, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kotia%2C+Pottangi%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:30.161215+00:00",
+        "candidates": [
+          {
+            "name": "Kotiya",
+            "address": "Kotiya, Odisha 764039",
+            "lat": 18.6135506,
+            "long": 82.9772436,
+            "google_id": "0x3a3babc4260d4c63:0xe893b3c6102188a5",
+            "place_id": "ChIJY0wNJsSrOzoRpYghEMazk-g",
+            "maps_url": "https://www.google.com/maps/preview/place/Kotiya,+Odisha+764039/@18.6135506,82.9772436,3781a,13.1y/data=!4m2!3m1!1s0x3a3babc4260d4c63:0xe893b3c6102188a5"
+          }
+        ]
+      },
+      {
+        "query": "Kotia, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kotia%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:31.207045+00:00",
+        "candidates": [
+          {
+            "name": "Kotiya",
+            "address": "Kotiya, Odisha 764039",
+            "lat": 18.6135506,
+            "long": 82.9772436,
+            "google_id": "0x3a3babc4260d4c63:0xe893b3c6102188a5",
+            "place_id": "ChIJY0wNJsSrOzoRpYghEMazk-g",
+            "maps_url": "https://www.google.com/maps/preview/place/Kotiya,+Odisha+764039/@18.6135506,82.9772436,3781a,13.1y/data=!4m2!3m1!1s0x3a3babc4260d4c63:0xe893b3c6102188a5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 21,
+      "District": "Koraput",
+      "Block": "Pottangi",
+      "Panchayat": "Chandaka",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Chandaka, Pottangi, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Chandaka%2C+Pottangi%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:32.671721+00:00",
+        "candidates": [
+          {
+            "name": "Chandaka",
+            "address": "Chandaka, Odisha 764039",
+            "lat": 18.4592232,
+            "long": 82.9730056,
+            "google_id": "0x3a3bb23ec40a13bf:0x4082eb3d28bc5556",
+            "place_id": "ChIJvxMKxD6yOzoRVlW8KD3rgkA",
+            "maps_url": "https://www.google.com/maps/preview/place/Chandaka,+Odisha+764039/@18.4592232,82.9730056,3785a,13.1y/data=!4m2!3m1!1s0x3a3bb23ec40a13bf:0x4082eb3d28bc5556"
+          }
+        ]
+      },
+      {
+        "query": "Chandaka, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Chandaka%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:33.748270+00:00",
+        "candidates": [
+          {
+            "name": "Chandaka",
+            "address": "Chandaka, Odisha 764039",
+            "lat": 18.4592232,
+            "long": 82.9730056,
+            "google_id": "0x3a3bb23ec40a13bf:0x4082eb3d28bc5556",
+            "place_id": "ChIJvxMKxD6yOzoRVlW8KD3rgkA",
+            "maps_url": "https://www.google.com/maps/preview/place/Chandaka,+Odisha+764039/@18.4592232,82.9730056,3785a,13.1y/data=!4m2!3m1!1s0x3a3bb23ec40a13bf:0x4082eb3d28bc5556"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 22,
+      "District": "Koraput",
+      "Block": "Pottangi",
+      "Panchayat": "Rallagada",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Rallagada, Pottangi, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Rallagada%2C+Pottangi%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:34.837831+00:00",
+        "candidates": []
+      },
+      {
+        "query": "Rallagada, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Rallagada%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:35.885342+00:00",
+        "candidates": [
+          {
+            "name": "Rayagada",
+            "address": "Rayagada, Odisha",
+            "lat": 19.171493899999998,
+            "long": 83.4116756,
+            "google_id": "0x3a3b44a592805fc7:0x19c6cb5c9327a19d",
+            "place_id": "ChIJx1-AkqVEOzoRnaEnk1zLxhk",
+            "maps_url": "https://www.google.com/maps/preview/place/Rayagada,+Odisha/@19.1714939,83.4116756,3769a,13.1y/data=!4m2!3m1!1s0x3a3b44a592805fc7:0x19c6cb5c9327a19d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 23,
+      "District": "Koraput",
+      "Block": "Koraput",
+      "Panchayat": "Mahadeiput",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Mahadeiput, Koraput, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Mahadeiput%2C+Koraput%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:36.743057+00:00",
+        "candidates": [
+          {
+            "name": "Mahadeiput",
+            "address": "Mahadeiput, Odisha 764021",
+            "lat": 18.8589041,
+            "long": 82.7320168,
+            "google_id": "0x3a3aeff950ec1079:0xa87f821f80fcbb71",
+            "place_id": "ChIJeRDsUPnvOjoRcbv8gB-Cf6g",
+            "maps_url": "https://www.google.com/maps/preview/place/Mahadeiput,+Odisha+764021/@18.8589041,82.7320168,3776a,13.1y/data=!4m2!3m1!1s0x3a3aeff950ec1079:0xa87f821f80fcbb71"
+          }
+        ]
+      },
+      {
+        "query": "Mahadeiput, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Mahadeiput%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:37.455665+00:00",
+        "candidates": [
+          {
+            "name": "Mahadeiput",
+            "address": "Mahadeiput, Odisha 764021",
+            "lat": 18.8589041,
+            "long": 82.7320168,
+            "google_id": "0x3a3aeff950ec1079:0xa87f821f80fcbb71",
+            "place_id": "ChIJeRDsUPnvOjoRcbv8gB-Cf6g",
+            "maps_url": "https://www.google.com/maps/preview/place/Mahadeiput,+Odisha+764021/@18.8589041,82.7320168,3776a,13.1y/data=!4m2!3m1!1s0x3a3aeff950ec1079:0xa87f821f80fcbb71"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 24,
+      "District": "Koraput",
+      "Block": "Koraput",
+      "Panchayat": "Umuri",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Umuri, Koraput, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Umuri%2C+Koraput%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:38.205438+00:00",
+        "candidates": [
+          {
+            "name": "Umuri",
+            "address": "Umuri, Odisha 764021",
+            "lat": 18.7855105,
+            "long": 82.667247,
+            "google_id": "0x3a3af16b4ac3c9a9:0xdbfd13e652ccd174",
+            "place_id": "ChIJqcnDSmvxOjoRdNHMUuYT_ds",
+            "maps_url": "https://www.google.com/maps/preview/place/Umuri,+Odisha+764021/@18.7855105,82.667247,3777a,13.1y/data=!4m2!3m1!1s0x3a3af16b4ac3c9a9:0xdbfd13e652ccd174"
+          }
+        ]
+      },
+      {
+        "query": "Umuri, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Umuri%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:39.247518+00:00",
+        "candidates": [
+          {
+            "name": "Umuri",
+            "address": "Umuri, Odisha 764021",
+            "lat": 18.7855105,
+            "long": 82.667247,
+            "google_id": "0x3a3af16b4ac3c9a9:0xdbfd13e652ccd174",
+            "place_id": "ChIJqcnDSmvxOjoRdNHMUuYT_ds",
+            "maps_url": "https://www.google.com/maps/preview/place/Umuri,+Odisha+764021/@18.7855105,82.667247,3777a,13.1y/data=!4m2!3m1!1s0x3a3af16b4ac3c9a9:0xdbfd13e652ccd174"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 25,
+      "District": "Koraput",
+      "Block": "Koraput",
+      "Panchayat": "Padampur",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Padampur, Koraput, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Padampur%2C+Koraput%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:40.028194+00:00",
+        "candidates": [
+          {
+            "name": "Padampur",
+            "address": "Padampur, Odisha 764021",
+            "lat": 18.7839797,
+            "long": 82.7987457,
+            "google_id": "0x3a3afbc1dbf9958d:0x6b30b31c1f029391",
+            "place_id": "ChIJjZX528H7OjoRkZMCHxyzMGs",
+            "maps_url": "https://www.google.com/maps/preview/place/Padampur,+Odisha+764021/@18.7839797,82.7987457,3777a,13.1y/data=!4m2!3m1!1s0x3a3afbc1dbf9958d:0x6b30b31c1f029391"
+          }
+        ]
+      },
+      {
+        "query": "Padampur, Koraput, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Padampur%2C+Koraput%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:41.127830+00:00",
+        "candidates": [
+          {
+            "name": "Padampur",
+            "address": "Padampur, Odisha 764021",
+            "lat": 18.7839797,
+            "long": 82.7987457,
+            "google_id": "0x3a3afbc1dbf9958d:0x6b30b31c1f029391",
+            "place_id": "ChIJjZX528H7OjoRkZMCHxyzMGs",
+            "maps_url": "https://www.google.com/maps/preview/place/Padampur,+Odisha+764021/@18.7839797,82.7987457,3777a,13.1y/data=!4m2!3m1!1s0x3a3afbc1dbf9958d:0x6b30b31c1f029391"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 26,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Antulia",
+      "Remarks": "FES",
+      "Generated": "Already generated & active",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Antulia, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Antulia%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:42.162797+00:00",
+        "candidates": [
+          {
+            "name": "Antulia",
+            "address": "Antulia, Odisha",
+            "lat": 20.798133099999998,
+            "long": 84.8176862,
+            "google_id": "0x3a220f752ab0f869:0x18169b8a23548067",
+            "place_id": "ChIJafiwKnUPIjoRZ4BUI4qbFhg",
+            "maps_url": "https://www.google.com/maps/preview/place/Antulia,+Odisha/@20.7981331,84.8176862,3730a,13.1y/data=!4m2!3m1!1s0x3a220f752ab0f869:0x18169b8a23548067"
+          }
+        ]
+      },
+      {
+        "query": "Antulia, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Antulia%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:43.191475+00:00",
+        "candidates": [
+          {
+            "name": "Antulia",
+            "address": "Antulia, Odisha",
+            "lat": 20.798133099999998,
+            "long": 84.8176862,
+            "google_id": "0x3a220f752ab0f869:0x18169b8a23548067",
+            "place_id": "ChIJafiwKnUPIjoRZ4BUI4qbFhg",
+            "maps_url": "https://www.google.com/maps/preview/place/Antulia,+Odisha/@20.7981331,84.8176862,3730a,13.1y/data=!4m2!3m1!1s0x3a220f752ab0f869:0x18169b8a23548067"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 27,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Manikjodi",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Manikjodi, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Manikjodi%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:43.947450+00:00",
+        "candidates": [
+          {
+            "name": "Binikei Temple",
+            "address": "JP9F+6PJ Binikei Temple, Daruha, Odisha 759125",
+            "lat": 20.618095,
+            "long": 84.724263,
+            "google_id": "0x3a226cda5b6c379d:0x8bc1e4b422ac0b23",
+            "place_id": "ChIJnTdsW9psIjoRIwusIrTkwYs",
+            "maps_url": "https://www.google.com/maps/preview/place/JP9F%2B6PJ+Binikei+Temple,+Daruha,+Odisha+759125/@20.618095,84.724263,3734a,13.1y/data=!4m2!3m1!1s0x3a226cda5b6c379d:0x8bc1e4b422ac0b23"
+          }
+        ]
+      },
+      {
+        "query": "Manikjodi, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Manikjodi%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:45.034147+00:00",
+        "candidates": [
+          {
+            "name": "Manikjori",
+            "address": "Manikjori, Odisha 759132",
+            "lat": 20.7604705,
+            "long": 84.8997797,
+            "google_id": "0x3a22090a609ca59b:0x5e8a41b0eb9b5e95",
+            "place_id": "ChIJm6WcYAoJIjoRlV6b67BBil4",
+            "maps_url": "https://www.google.com/maps/preview/place/Manikjori,+Odisha+759132/@20.7604705,84.8997797,3731a,13.1y/data=!4m2!3m1!1s0x3a22090a609ca59b:0x5e8a41b0eb9b5e95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 28,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Nandpur",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Nandpur, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Nandpur%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:46.101471+00:00",
+        "candidates": [
+          {
+            "name": "Angul",
+            "address": "Angul, Odisha",
+            "lat": 20.8379124,
+            "long": 85.09779139999999,
+            "google_id": "0x3a18a557bdce4a15:0xbc698f089d492392",
+            "place_id": "ChIJFUrOvVelGDoRkiNJnQiPabw",
+            "maps_url": null
+          },
+          {
+            "name": "Nandapur",
+            "address": "Nandapur, Odisha",
+            "lat": 20.730753699999998,
+            "long": 85.0012541,
+            "google_id": "0x3a18a135aa3333bf:0x3de88bea5fbe6806",
+            "place_id": "ChIJvzMzqjWhGDoRBmi-X-qL6D0",
+            "maps_url": null
+          }
+        ]
+      },
+      {
+        "query": "Nandpur, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Nandpur%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:47.258965+00:00",
+        "candidates": [
+          {
+            "name": "Nandapur",
+            "address": "Nandapur, Odisha 764037",
+            "lat": 18.56403,
+            "long": 82.7374093,
+            "google_id": "0x3a3a50a5f10b64d7:0x63f4222ddd2c3a8",
+            "place_id": "ChIJ12QL8aVQOjoRqMPS3SJCPwY",
+            "maps_url": null
+          },
+          {
+            "name": "Nandapur",
+            "address": "Nandapur, Odisha",
+            "lat": 20.730753699999998,
+            "long": 85.0012541,
+            "google_id": "0x3a18a135aa3333bf:0x3de88bea5fbe6806",
+            "place_id": "ChIJvzMzqjWhGDoRBmi-X-qL6D0",
+            "maps_url": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 29,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Sardhapur",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Sardhapur, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sardhapur%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:48.352882+00:00",
+        "candidates": [
+          {
+            "name": "Saradhapur",
+            "address": "Saradhapur, Odisha 759132",
+            "lat": 20.795479099999998,
+            "long": 85.0817825,
+            "google_id": "0x3a18a510c33bf7f5:0x8198a08855120e30",
+            "place_id": "ChIJ9fc7wxClGDoRMA4SVYigmIE",
+            "maps_url": "https://www.google.com/maps/preview/place/Saradhapur,+Odisha+759132/@20.7954791,85.0817825,3730a,13.1y/data=!4m2!3m1!1s0x3a18a510c33bf7f5:0x8198a08855120e30"
+          }
+        ]
+      },
+      {
+        "query": "Sardhapur, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sardhapur%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:49.378128+00:00",
+        "candidates": [
+          {
+            "name": "Saradhapur",
+            "address": "Saradhapur, Odisha 759132",
+            "lat": 20.795479099999998,
+            "long": 85.0817825,
+            "google_id": "0x3a18a510c33bf7f5:0x8198a08855120e30",
+            "place_id": "ChIJ9fc7wxClGDoRMA4SVYigmIE",
+            "maps_url": "https://www.google.com/maps/preview/place/Saradhapur,+Odisha+759132/@20.7954791,85.0817825,3730a,13.1y/data=!4m2!3m1!1s0x3a18a510c33bf7f5:0x8198a08855120e30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 30,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Potsunga",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Potsunga, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Potsunga%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:50.437789+00:00",
+        "candidates": [
+          {
+            "name": "Angul",
+            "address": "Angul, Odisha",
+            "lat": 20.8379124,
+            "long": 85.09779139999999,
+            "google_id": "0x3a18a557bdce4a15:0xbc698f089d492392",
+            "place_id": "ChIJFUrOvVelGDoRkiNJnQiPabw",
+            "maps_url": null
+          },
+          {
+            "name": "Pokatunga",
+            "address": "Pokatunga, Odisha 759129",
+            "lat": 20.7346257,
+            "long": 85.0324401,
+            "google_id": "0x3a18a3f616bca481:0x888351251b4c05f5",
+            "place_id": "ChIJgaS8FvajGDoR9QVMGyVRg4g",
+            "maps_url": null
+          }
+        ]
+      },
+      {
+        "query": "Potsunga, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Potsunga%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:51.530123+00:00",
+        "candidates": [
+          {
+            "name": "Pokatunga",
+            "address": "Pokatunga, Odisha 759129",
+            "lat": 20.7346257,
+            "long": 85.0324401,
+            "google_id": "0x3a18a3f616bca481:0x888351251b4c05f5",
+            "place_id": "ChIJgaS8FvajGDoR9QVMGyVRg4g",
+            "maps_url": "https://www.google.com/maps/preview/place/Pokatunga,+Odisha+759129/@20.7346257,85.0324401,3731a,13.1y/data=!4m2!3m1!1s0x3a18a3f616bca481:0x888351251b4c05f5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 31,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Bargonia",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Bargonia, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bargonia%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:52.614769+00:00",
+        "candidates": [
+          {
+            "name": "Baragounia",
+            "address": "Baragounia, Odisha 759129",
+            "lat": 20.7074726,
+            "long": 85.07010009999999,
+            "google_id": "0x3a18a3085d046e89:0xba79ff82dfc4308e",
+            "place_id": "ChIJiW4EXQijGDoRjjDE34L_ebo",
+            "maps_url": "https://www.google.com/maps/preview/place/Baragounia,+Odisha+759129/@20.7074726,85.0701001,3732a,13.1y/data=!4m2!3m1!1s0x3a18a3085d046e89:0xba79ff82dfc4308e"
+          }
+        ]
+      },
+      {
+        "query": "Bargonia, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bargonia%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:53.752025+00:00",
+        "candidates": [
+          {
+            "name": "Baragounia",
+            "address": "Baragounia, Odisha 759129",
+            "lat": 20.7074726,
+            "long": 85.07010009999999,
+            "google_id": "0x3a18a3085d046e89:0xba79ff82dfc4308e",
+            "place_id": "ChIJiW4EXQijGDoRjjDE34L_ebo",
+            "maps_url": "https://www.google.com/maps/preview/place/Baragounia,+Odisha+759129/@20.7074726,85.0701001,3732a,13.1y/data=!4m2!3m1!1s0x3a18a3085d046e89:0xba79ff82dfc4308e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 32,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Matiasahi",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Matiasahi, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Matiasahi%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:54.923712+00:00",
+        "candidates": [
+          {
+            "name": "Matiasahi",
+            "address": "Matiasahi, Odisha 759132",
+            "lat": 20.796579299999998,
+            "long": 84.9817822,
+            "google_id": "0x3a18a64f785f32bd:0x170bdd39d12f3b2f",
+            "place_id": "ChIJvTJfeE-mGDoRLzsv0TndCxc",
+            "maps_url": null
+          },
+          {
+            "name": "Matiasahi Angul",
+            "address": "R3CW+MJF Matiasahi Angul, Irrigation Colony, Lingarajodi, Angul, Odisha 759122",
+            "lat": 20.821689,
+            "long": 85.0965434,
+            "google_id": "0x3a18a56a93e26db1:0xf813b046659c7dd",
+            "place_id": "ChIJsW3ik2qlGDoR3cdZZgQ7gQ8",
+            "maps_url": null
+          },
+          {
+            "name": "MATIA SAHI",
+            "address": "R4C2+VCX MATIA SAHI, Irrigation Colony, Baniabahal, Lingarajodi, Matiasahi, Angul, Odisha 759122",
+            "lat": 20.8222447,
+            "long": 85.1010939,
+            "google_id": "0x3a18a50032d1c657:0x5817fc52185893d4",
+            "place_id": "ChIJV8bRMgClGDoR1JNYGFL8F1g",
+            "maps_url": null
+          }
+        ]
+      },
+      {
+        "query": "Matiasahi, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Matiasahi%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:55.940601+00:00",
+        "candidates": [
+          {
+            "name": "Matiasahi",
+            "address": "Matiasahi, Odisha 759132",
+            "lat": 20.796579299999998,
+            "long": 84.9817822,
+            "google_id": "0x3a18a64f785f32bd:0x170bdd39d12f3b2f",
+            "place_id": "ChIJvTJfeE-mGDoRLzsv0TndCxc",
+            "maps_url": "https://www.google.com/maps/preview/place/Matiasahi,+Odisha+759132/@20.7965793,84.9817822,3730a,13.1y/data=!4m2!3m1!1s0x3a18a64f785f32bd:0x170bdd39d12f3b2f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 33,
+      "District": "Angul",
+      "Block": "Angul",
+      "Panchayat": "Bantala",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Bantala, Angul, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bantala%2C+Angul%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:56.981208+00:00",
+        "candidates": [
+          {
+            "name": "Bantala",
+            "address": "Bantala, Odisha 759129",
+            "lat": 20.7492028,
+            "long": 85.06527109999999,
+            "google_id": "0x3a18a37f11d1e099:0xa2be00206e70176b",
+            "place_id": "ChIJmeDREX-jGDoRaxdwbiAAvqI",
+            "maps_url": "https://www.google.com/maps/preview/place/Bantala,+Odisha+759129/@20.7492028,85.0652711,3731a,13.1y/data=!4m2!3m1!1s0x3a18a37f11d1e099:0xa2be00206e70176b"
+          }
+        ]
+      },
+      {
+        "query": "Bantala, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bantala%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:57.720814+00:00",
+        "candidates": [
+          {
+            "name": "Bantala",
+            "address": "Bantala, Odisha 759129",
+            "lat": 20.7492028,
+            "long": 85.06527109999999,
+            "google_id": "0x3a18a37f11d1e099:0xa2be00206e70176b",
+            "place_id": "ChIJmeDREX-jGDoRaxdwbiAAvqI",
+            "maps_url": "https://www.google.com/maps/preview/place/Bantala,+Odisha+759129/@20.7492028,85.0652711,3731a,13.1y/data=!4m2!3m1!1s0x3a18a37f11d1e099:0xa2be00206e70176b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 34,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Purnamanitri",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Purnamanitri, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Purnamanitri%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:58.796298+00:00",
+        "candidates": [
+          {
+            "name": "Athmallik",
+            "address": "Athmallik, Odisha 759125",
+            "lat": 20.7240587,
+            "long": 84.53532469999999,
+            "google_id": "0x3a223c1dcfa0c2cd:0x32207ddc04b432e9",
+            "place_id": "ChIJzcKgzx08IjoR6TK0BNx9IDI",
+            "maps_url": "https://www.google.com/maps/preview/place/Athmallik,+Odisha+759125/@20.7240587,84.5353247,3732a,13.1y/data=!4m2!3m1!1s0x3a223c1dcfa0c2cd:0x32207ddc04b432e9"
+          }
+        ]
+      },
+      {
+        "query": "Purnamanitri, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Purnamanitri%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:09:59.553296+00:00",
+        "candidates": [
+          {
+            "name": "Purunamanatri High School",
+            "address": "PFMV+R9R Purunamanatri High School, Purunamanantri, Odisha 759125",
+            "lat": 20.7346049,
+            "long": 84.4933758,
+            "google_id": "0x3a223b17068f6c75:0xf12834e437759bce",
+            "place_id": "ChIJdWyPBhc7IjoRzpt1N-Q0KPE",
+            "maps_url": "https://www.google.com/maps/preview/place/PFMV%2BR9R+Purunamanatri+High+School,+Purunamanantri,+Odisha+759125/@20.7346049,84.4933758,3731a,13.1y/data=!4m2!3m1!1s0x3a223b17068f6c75:0xf12834e437759bce"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 35,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Nuagoan",
+      "Remarks": "LSFP",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Nuagoan, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Nuagoan%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:00.726790+00:00",
+        "candidates": [
+          {
+            "name": "Angul",
+            "address": "Angul, Odisha",
+            "lat": 20.8379124,
+            "long": 85.09779139999999,
+            "google_id": "0x3a18a557bdce4a15:0xbc698f089d492392",
+            "place_id": "ChIJFUrOvVelGDoRkiNJnQiPabw",
+            "maps_url": null
+          },
+          {
+            "name": "Athmallik",
+            "address": "Athmallik, Odisha 759125",
+            "lat": 20.7240587,
+            "long": 84.53532469999999,
+            "google_id": "0x3a223c1dcfa0c2cd:0x32207ddc04b432e9",
+            "place_id": "ChIJzcKgzx08IjoR6TK0BNx9IDI",
+            "maps_url": null
+          },
+          {
+            "name": "Gandhi chowk Athamallik",
+            "address": "PGFQ+27V Gandhi chowk Athamallik, SH 62, Athmallik, Odisha 759125",
+            "lat": 20.7226166,
+            "long": 84.5381742,
+            "google_id": "0x3a223dbd49268777:0x52691940fb7b6195",
+            "place_id": "ChIJd4cmSb09IjoRlWF7-0AZaVI",
+            "maps_url": null
+          },
+          {
+            "name": "Nuagaon",
+            "address": "Nuagaon, Odisha 759125",
+            "lat": 20.7923173,
+            "long": 84.4408972,
+            "google_id": "0x3a223aa1cd5cc663:0xfa0fa885c8621441",
+            "place_id": "ChIJY8ZczaE6IjoRQRRiyIWoD_o",
+            "maps_url": null
+          },
+          {
+            "name": "Nuagaon",
+            "address": "Nuagaon, Odisha 759141",
+            "lat": 21.1102249,
+            "long": 84.7237198,
+            "google_id": "0x3a21f132780c26f9:0x2461509ef743d210",
+            "place_id": "ChIJ-SYMeDLxIToRENJD955QYSQ",
+            "maps_url": null
+          },
+          {
+            "name": "Nuagaon Chhendipada Angul",
+            "address": "4P69+XV6 Nuagaon Chhendipada Angul, Nuagaon, Odisha 759141",
+            "lat": 21.1124075,
+            "long": 84.7196286,
+            "google_id": "0x3a21f15840e174b5:0xf0384b4f5a985f05",
+            "place_id": "ChIJtXThQFjxIToRBV-YWk9LOPA",
+            "maps_url": null
+          }
+        ]
+      },
+      {
+        "query": "Nuagoan, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Nuagoan%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:01.901039+00:00",
+        "candidates": [
+          {
+            "name": "Nuagaon",
+            "address": "Nuagaon, Odisha 759141",
+            "lat": 21.1102249,
+            "long": 84.7237198,
+            "google_id": "0x3a21f132780c26f9:0x2461509ef743d210",
+            "place_id": "ChIJ-SYMeDLxIToRENJD955QYSQ",
+            "maps_url": "https://www.google.com/maps/preview/place/Nuagaon,+Odisha+759141/@21.1102249,84.7237198,3722a,13.1y/data=!4m2!3m1!1s0x3a21f132780c26f9:0x2461509ef743d210"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 36,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Kandhapada",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kandhapada, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kandhapada%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:02.962600+00:00",
+        "candidates": [
+          {
+            "name": "Kandhapada",
+            "address": "Kandhapada, Odisha 759125",
+            "lat": 20.7853572,
+            "long": 84.4093876,
+            "google_id": "0x3a22304654ede683:0x331955fc96a2f7dc",
+            "place_id": "ChIJg-btVEYwIjoR3PeilvxVGTM",
+            "maps_url": "https://www.google.com/maps/preview/place/Kandhapada,+Odisha+759125/@20.7853572,84.4093876,3730a,13.1y/data=!4m2!3m1!1s0x3a22304654ede683:0x331955fc96a2f7dc"
+          }
+        ]
+      },
+      {
+        "query": "Kandhapada, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kandhapada%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:04.062394+00:00",
+        "candidates": [
+          {
+            "name": "Kandhapada",
+            "address": "Kandhapada, Odisha 759125",
+            "lat": 20.7853572,
+            "long": 84.4093876,
+            "google_id": "0x3a22304654ede683:0x331955fc96a2f7dc",
+            "place_id": "ChIJg-btVEYwIjoR3PeilvxVGTM",
+            "maps_url": "https://www.google.com/maps/preview/place/Kandhapada,+Odisha+759125/@20.7853572,84.4093876,3730a,13.1y/data=!4m2!3m1!1s0x3a22304654ede683:0x331955fc96a2f7dc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 37,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Kiakata",
+      "Remarks": "LSFP",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kiakata, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kiakata%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:05.207593+00:00",
+        "candidates": [
+          {
+            "name": "Kiakata",
+            "address": "Kiakata, Odisha 759126",
+            "lat": 20.8657509,
+            "long": 84.3252791,
+            "google_id": "0x3a222c4fa37672f5:0x62e2b807feaacfe2",
+            "place_id": "ChIJ9XJ2o08sIjoR4s-q_ge44mI",
+            "maps_url": "https://www.google.com/maps/preview/place/Kiakata,+Odisha+759126/@20.8657509,84.3252791,3728a,13.1y/data=!4m2!3m1!1s0x3a222c4fa37672f5:0x62e2b807feaacfe2"
+          }
+        ]
+      },
+      {
+        "query": "Kiakata, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kiakata%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:05.933892+00:00",
+        "candidates": [
+          {
+            "name": "Kiakata",
+            "address": "Kiakata, Odisha 759126",
+            "lat": 20.8657509,
+            "long": 84.3252791,
+            "google_id": "0x3a222c4fa37672f5:0x62e2b807feaacfe2",
+            "place_id": "ChIJ9XJ2o08sIjoR4s-q_ge44mI",
+            "maps_url": "https://www.google.com/maps/preview/place/Kiakata,+Odisha+759126/@20.8657509,84.3252791,3728a,13.1y/data=!4m2!3m1!1s0x3a222c4fa37672f5:0x62e2b807feaacfe2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 38,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Basudevpur",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Basudevpur, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Basudevpur%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:06.708015+00:00",
+        "candidates": [
+          {
+            "name": "Athmallik",
+            "address": "Athmallik, Odisha 759125",
+            "lat": 20.7240587,
+            "long": 84.53532469999999,
+            "google_id": "0x3a223c1dcfa0c2cd:0x32207ddc04b432e9",
+            "place_id": "ChIJzcKgzx08IjoR6TK0BNx9IDI",
+            "maps_url": "https://www.google.com/maps/preview/place/Athmallik,+Odisha+759125/@20.7240587,84.5353247,3732a,13.1y/data=!4m2!3m1!1s0x3a223c1dcfa0c2cd:0x32207ddc04b432e9"
+          }
+        ]
+      },
+      {
+        "query": "Basudevpur, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Basudevpur%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:07.433999+00:00",
+        "candidates": [
+          {
+            "name": "Basudevpur",
+            "address": "Basudevpur, Odisha 759130",
+            "lat": 20.874394799999997,
+            "long": 84.9843544,
+            "google_id": "0x3a18a855632d99bd:0x9cd1760114942118",
+            "place_id": "ChIJvZktY1WoGDoRGCGUFAF20Zw",
+            "maps_url": "https://www.google.com/maps/preview/place/Basudevpur,+Odisha+759130/@20.8743948,84.9843544,3728a,13.1y/data=!4m2!3m1!1s0x3a18a855632d99bd:0x9cd1760114942118"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 39,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Tusar",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Tusar, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Tusar%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:08.483428+00:00",
+        "candidates": [
+          {
+            "name": "Tushar",
+            "address": "Tushar, Odisha 759126",
+            "lat": 20.884955599999998,
+            "long": 84.36734829999999,
+            "google_id": "0x3a222ebcb65dab8f:0x4af44f666735f176",
+            "place_id": "ChIJj6tdtrwuIjoRdvE1Z2ZP9Eo",
+            "maps_url": "https://www.google.com/maps/preview/place/Tushar,+Odisha+759126/@20.8849556,84.3673483,3728a,13.1y/data=!4m2!3m1!1s0x3a222ebcb65dab8f:0x4af44f666735f176"
+          }
+        ]
+      },
+      {
+        "query": "Tusar, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Tusar%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:09.478168+00:00",
+        "candidates": [
+          {
+            "name": "Tushar",
+            "address": "Tushar, Odisha 759126",
+            "lat": 20.884955599999998,
+            "long": 84.36734829999999,
+            "google_id": "0x3a222ebcb65dab8f:0x4af44f666735f176",
+            "place_id": "ChIJj6tdtrwuIjoRdvE1Z2ZP9Eo",
+            "maps_url": "https://www.google.com/maps/preview/place/Tushar,+Odisha+759126/@20.8849556,84.3673483,3728a,13.1y/data=!4m2!3m1!1s0x3a222ebcb65dab8f:0x4af44f666735f176"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 40,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Ambasarmunda",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Ambasarmunda, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Ambasarmunda%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:10.486737+00:00",
+        "candidates": [
+          {
+            "name": "Ambasarmunda Sevashram School",
+            "address": "VH6M+FR9 Ambasarmunda Sevashram School, Ambasaramunda, Mahidharpur, Odisha 759126",
+            "lat": 20.8611577,
+            "long": 84.58462209999999,
+            "google_id": "0x3a222397cc45527d:0xc4c20fb703f2f88b",
+            "place_id": "ChIJfVJFzJcjIjoRi_jyA7cPwsQ",
+            "maps_url": "https://www.google.com/maps/preview/place/VH6M%2BFR9+Ambasarmunda+Sevashram+School,+Ambasaramunda,+Mahidharpur,+Odisha+759126/@20.8611577,84.5846221,3728a,13.1y/data=!4m2!3m1!1s0x3a222397cc45527d:0xc4c20fb703f2f88b"
+          }
+        ]
+      },
+      {
+        "query": "Ambasarmunda, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Ambasarmunda%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:11.510790+00:00",
+        "candidates": [
+          {
+            "name": "Ambasarmunda Sevashram School",
+            "address": "VH6M+FR9 Ambasarmunda Sevashram School, Ambasaramunda, Mahidharpur, Odisha 759126",
+            "lat": 20.8611577,
+            "long": 84.58462209999999,
+            "google_id": "0x3a222397cc45527d:0xc4c20fb703f2f88b",
+            "place_id": "ChIJfVJFzJcjIjoRi_jyA7cPwsQ",
+            "maps_url": "https://www.google.com/maps/preview/place/VH6M%2BFR9+Ambasarmunda+Sevashram+School,+Ambasaramunda,+Mahidharpur,+Odisha+759126/@20.8611577,84.5846221,3728a,13.1y/data=!4m2!3m1!1s0x3a222397cc45527d:0xc4c20fb703f2f88b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 41,
+      "District": "Angul",
+      "Block": "Athamallik",
+      "Panchayat": "Sapaghara",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Sapaghara, Athamallik, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sapaghara%2C+Athamallik%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:12.540135+00:00",
+        "candidates": [
+          {
+            "name": "Sapaghara",
+            "address": "Sapaghara, Odisha 759127",
+            "lat": 20.8483491,
+            "long": 84.7589753,
+            "google_id": "0x3a221ab88496f897:0x650f255cf7dbaae3",
+            "place_id": "ChIJl_iWhLgaIjoR46rb91wlD2U",
+            "maps_url": "https://www.google.com/maps/preview/place/Sapaghara,+Odisha+759127/@20.8483491,84.7589753,3729a,13.1y/data=!4m2!3m1!1s0x3a221ab88496f897:0x650f255cf7dbaae3"
+          }
+        ]
+      },
+      {
+        "query": "Sapaghara, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sapaghara%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:13.583630+00:00",
+        "candidates": [
+          {
+            "name": "Sapaghara",
+            "address": "Sapaghara, Odisha 759127",
+            "lat": 20.8483491,
+            "long": 84.7589753,
+            "google_id": "0x3a221ab88496f897:0x650f255cf7dbaae3",
+            "place_id": "ChIJl_iWhLgaIjoR46rb91wlD2U",
+            "maps_url": "https://www.google.com/maps/preview/place/Sapaghara,+Odisha+759127/@20.8483491,84.7589753,3729a,13.1y/data=!4m2!3m1!1s0x3a221ab88496f897:0x650f255cf7dbaae3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 42,
+      "District": "Angul",
+      "Block": "Kishorenagar",
+      "Panchayat": "Kanteikulia",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": "Kishorenagar block falls in tehsil - Athamallik"
+    },
+    "searches": [
+      {
+        "query": "Kanteikulia, Kishorenagar, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kanteikulia%2C+Kishorenagar%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:14.721107+00:00",
+        "candidates": [
+          {
+            "name": "Kanteikolia",
+            "address": "Kanteikolia, Odisha 759127",
+            "lat": 20.9831804,
+            "long": 84.74722589999999,
+            "google_id": "0x3a221d14773b2ecd:0x372abcdab75afe66",
+            "place_id": "ChIJzS47dxQdIjoRZv5at9q8Kjc",
+            "maps_url": "https://www.google.com/maps/preview/place/Kanteikolia,+Odisha+759127/@20.9831804,84.7472259,3725a,13.1y/data=!4m2!3m1!1s0x3a221d14773b2ecd:0x372abcdab75afe66"
+          }
+        ]
+      },
+      {
+        "query": "Kanteikulia, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kanteikulia%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:15.523832+00:00",
+        "candidates": [
+          {
+            "name": "Kanteikolia",
+            "address": "Kanteikolia, Odisha 759127",
+            "lat": 20.9831804,
+            "long": 84.74722589999999,
+            "google_id": "0x3a221d14773b2ecd:0x372abcdab75afe66",
+            "place_id": "ChIJzS47dxQdIjoRZv5at9q8Kjc",
+            "maps_url": "https://www.google.com/maps/preview/place/Kanteikolia,+Odisha+759127/@20.9831804,84.7472259,3725a,13.1y/data=!4m2!3m1!1s0x3a221d14773b2ecd:0x372abcdab75afe66"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 43,
+      "District": "Angul",
+      "Block": "Kishorenagar",
+      "Panchayat": "Handapa",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Handapa, Kishorenagar, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Handapa%2C+Kishorenagar%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:16.255158+00:00",
+        "candidates": [
+          {
+            "name": "Handapa",
+            "address": "Handapa, Odisha 759127",
+            "lat": 20.953137899999998,
+            "long": 84.6884426,
+            "google_id": "0x3a221c28a1cc4b9b:0x33f2482382fc4608",
+            "place_id": "ChIJm0vMoSgcIjoRCEb8giNI8jM",
+            "maps_url": "https://www.google.com/maps/preview/place/Handapa,+Odisha+759127/@20.9531379,84.6884426,3726a,13.1y/data=!4m2!3m1!1s0x3a221c28a1cc4b9b:0x33f2482382fc4608"
+          }
+        ]
+      },
+      {
+        "query": "Handapa, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Handapa%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:17.275940+00:00",
+        "candidates": [
+          {
+            "name": "Handapa",
+            "address": "Handapa, Odisha 759127",
+            "lat": 20.953137899999998,
+            "long": 84.6884426,
+            "google_id": "0x3a221c28a1cc4b9b:0x33f2482382fc4608",
+            "place_id": "ChIJm0vMoSgcIjoRCEb8giNI8jM",
+            "maps_url": "https://www.google.com/maps/preview/place/Handapa,+Odisha+759127/@20.9531379,84.6884426,3726a,13.1y/data=!4m2!3m1!1s0x3a221c28a1cc4b9b:0x33f2482382fc4608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 44,
+      "District": "Angul",
+      "Block": "Kishorenagar",
+      "Panchayat": "Luhamunda",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Luhamunda, Kishorenagar, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Luhamunda%2C+Kishorenagar%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:18.353439+00:00",
+        "candidates": [
+          {
+            "name": "Luhamunda",
+            "address": "Luhamunda, Odisha 759127",
+            "lat": 20.9349973,
+            "long": 84.7263321,
+            "google_id": "0x3a221c653d0bd681:0xd33a0092a2dbb7ae",
+            "place_id": "ChIJgdYLPWUcIjoRrrfbopIAOtM",
+            "maps_url": "https://www.google.com/maps/preview/place/Luhamunda,+Odisha+759127/@20.9349973,84.7263321,3726a,13.1y/data=!4m2!3m1!1s0x3a221c653d0bd681:0xd33a0092a2dbb7ae"
+          }
+        ]
+      },
+      {
+        "query": "Luhamunda, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Luhamunda%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:19.440189+00:00",
+        "candidates": [
+          {
+            "name": "Luhamunda",
+            "address": "Luhamunda, Odisha 759127",
+            "lat": 20.9349973,
+            "long": 84.7263321,
+            "google_id": "0x3a221c653d0bd681:0xd33a0092a2dbb7ae",
+            "place_id": "ChIJgdYLPWUcIjoRrrfbopIAOtM",
+            "maps_url": "https://www.google.com/maps/preview/place/Luhamunda,+Odisha+759127/@20.9349973,84.7263321,3726a,13.1y/data=!4m2!3m1!1s0x3a221c653d0bd681:0xd33a0092a2dbb7ae"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 45,
+      "District": "Angul",
+      "Block": "Pallahara",
+      "Panchayat": "Nampasi",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Nampasi, Pallahara, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Nampasi%2C+Pallahara%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:20.546064+00:00",
+        "candidates": [
+          {
+            "name": "Pallahara",
+            "address": "Pallahara, Odisha 759119",
+            "lat": 21.4276754,
+            "long": 85.2023569,
+            "google_id": "0x3a1f6989e9942a8d:0x730f6819dc3c5d6d",
+            "place_id": "ChIJjSqU6YlpHzoRbV083BloD3M",
+            "maps_url": "https://www.google.com/maps/preview/place/Pallahara,+Odisha+759119/@21.4276754,85.2023569,3714a,13.1y/data=!4m2!3m1!1s0x3a1f6989e9942a8d:0x730f6819dc3c5d6d"
+          }
+        ]
+      },
+      {
+        "query": "Nampasi, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Nampasi%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:21.646111+00:00",
+        "candidates": [
+          {
+            "name": "Angul",
+            "address": "Angul, Odisha",
+            "lat": 20.8379124,
+            "long": 85.09779139999999,
+            "google_id": "0x3a18a557bdce4a15:0xbc698f089d492392",
+            "place_id": "ChIJFUrOvVelGDoRkiNJnQiPabw",
+            "maps_url": "https://www.google.com/maps/preview/place/Angul,+Odisha/@20.8379124,85.0977914,3729a,13.1y/data=!4m2!3m1!1s0x3a18a557bdce4a15:0xbc698f089d492392"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 46,
+      "District": "Angul",
+      "Block": "Pallahara",
+      "Panchayat": "Pechamundi",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Pechamundi, Pallahara, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Pechamundi%2C+Pallahara%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:22.885118+00:00",
+        "candidates": [
+          {
+            "name": "Pechamundi",
+            "address": "Pechamundi, Odisha",
+            "lat": 21.4539534,
+            "long": 85.29035239999999,
+            "google_id": "0x3a1f15200c7ff73b:0xb7ee1e2c08eb5a8b",
+            "place_id": "ChIJO_d_DCAVHzoRi1rrCCwe7rc",
+            "maps_url": "https://www.google.com/maps/preview/place/Pechamundi,+Odisha/@21.4539534,85.2903524,3713a,13.1y/data=!4m2!3m1!1s0x3a1f15200c7ff73b:0xb7ee1e2c08eb5a8b"
+          }
+        ]
+      },
+      {
+        "query": "Pechamundi, Angul, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Pechamundi%2C+Angul%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:23.914494+00:00",
+        "candidates": [
+          {
+            "name": "Pechamundi",
+            "address": "Pechamundi, Odisha",
+            "lat": 21.4539534,
+            "long": 85.29035239999999,
+            "google_id": "0x3a1f15200c7ff73b:0xb7ee1e2c08eb5a8b",
+            "place_id": "ChIJO_d_DCAVHzoRi1rrCCwe7rc",
+            "maps_url": "https://www.google.com/maps/preview/place/Pechamundi,+Odisha/@21.4539534,85.2903524,3713a,13.1y/data=!4m2!3m1!1s0x3a1f15200c7ff73b:0xb7ee1e2c08eb5a8b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 47,
+      "District": "Dhenkanal",
+      "Block": "Hindol",
+      "Panchayat": "Kansara",
+      "Remarks": "LSFP",
+      "Generated": "Generated ",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kansara, Hindol, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kansara%2C+Hindol%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:24.642064+00:00",
+        "candidates": [
+          {
+            "name": "Kansara",
+            "address": "Kansara, Odisha",
+            "lat": 20.7127206,
+            "long": 85.1505291,
+            "google_id": "0x3a18bc60968051d1:0xe34760d2e7632bc7",
+            "place_id": "ChIJ0VGAlmC8GDoRxytj59JgR-M",
+            "maps_url": "https://www.google.com/maps/preview/place/Kansara,+Odisha/@20.7127206,85.1505291,3732a,13.1y/data=!4m2!3m1!1s0x3a18bc60968051d1:0xe34760d2e7632bc7"
+          }
+        ]
+      },
+      {
+        "query": "Kansara, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kansara%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:25.724734+00:00",
+        "candidates": [
+          {
+            "name": "Kansara",
+            "address": "Kansara, Odisha",
+            "lat": 20.7127206,
+            "long": 85.1505291,
+            "google_id": "0x3a18bc60968051d1:0xe34760d2e7632bc7",
+            "place_id": "ChIJ0VGAlmC8GDoRxytj59JgR-M",
+            "maps_url": "https://www.google.com/maps/preview/place/Kansara,+Odisha/@20.7127206,85.1505291,3732a,13.1y/data=!4m2!3m1!1s0x3a18bc60968051d1:0xe34760d2e7632bc7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 48,
+      "District": "Dhenkanal",
+      "Block": "Hindol",
+      "Panchayat": "Dandiri",
+      "Remarks": "LSFP",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Dandiri, Hindol, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Dandiri%2C+Hindol%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:26.777176+00:00",
+        "candidates": [
+          {
+            "name": "Dandiri",
+            "address": "Dandiri, Odisha 759021",
+            "lat": 20.5744737,
+            "long": 85.3110368,
+            "google_id": "0x3a18ebbdec0ea9b1:0x14864773a5fd397c",
+            "place_id": "ChIJsakO7L3rGDoRfDn9pXNHhhQ",
+            "maps_url": "https://www.google.com/maps/preview/place/Dandiri,+Odisha+759021/@20.5744737,85.3110368,3735a,13.1y/data=!4m2!3m1!1s0x3a18ebbdec0ea9b1:0x14864773a5fd397c"
+          }
+        ]
+      },
+      {
+        "query": "Dandiri, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Dandiri%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:27.871790+00:00",
+        "candidates": [
+          {
+            "name": "Dandiri",
+            "address": "Dandiri, Odisha 759021",
+            "lat": 20.5744737,
+            "long": 85.3110368,
+            "google_id": "0x3a18ebbdec0ea9b1:0x14864773a5fd397c",
+            "place_id": "ChIJsakO7L3rGDoRfDn9pXNHhhQ",
+            "maps_url": "https://www.google.com/maps/preview/place/Dandiri,+Odisha+759021/@20.5744737,85.3110368,3735a,13.1y/data=!4m2!3m1!1s0x3a18ebbdec0ea9b1:0x14864773a5fd397c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 49,
+      "District": "Dhenkanal",
+      "Block": "Hindol",
+      "Panchayat": "Baunsapokhari",
+      "Remarks": "LSFP",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Baunsapokhari, Hindol, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Baunsapokhari%2C+Hindol%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:29.032463+00:00",
+        "candidates": [
+          {
+            "name": "Baunsapokhari",
+            "address": "Baunsapokhari, Odisha 759022",
+            "lat": 20.6421156,
+            "long": 85.1764491,
+            "google_id": "0x3a18961c94d5b0b3:0xddd3659e33062a55",
+            "place_id": "ChIJs7DVlByWGDoRVSoGM55l090",
+            "maps_url": "https://www.google.com/maps/preview/place/Baunsapokhari,+Odisha+759022/@20.6421156,85.1764491,3734a,13.1y/data=!4m2!3m1!1s0x3a18961c94d5b0b3:0xddd3659e33062a55"
+          }
+        ]
+      },
+      {
+        "query": "Baunsapokhari, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Baunsapokhari%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:30.129235+00:00",
+        "candidates": [
+          {
+            "name": "Baunsapokhari",
+            "address": "Baunsapokhari, Odisha 759022",
+            "lat": 20.6421156,
+            "long": 85.1764491,
+            "google_id": "0x3a18961c94d5b0b3:0xddd3659e33062a55",
+            "place_id": "ChIJs7DVlByWGDoRVSoGM55l090",
+            "maps_url": "https://www.google.com/maps/preview/place/Baunsapokhari,+Odisha+759022/@20.6421156,85.1764491,3734a,13.1y/data=!4m2!3m1!1s0x3a18961c94d5b0b3:0xddd3659e33062a55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 50,
+      "District": "Dhenkanal",
+      "Block": "Hindol",
+      "Panchayat": "Bampa",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Bampa, Hindol, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bampa%2C+Hindol%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:31.249054+00:00",
+        "candidates": [
+          {
+            "name": "Bampa",
+            "address": "Bampa, Odisha 759021",
+            "lat": 20.6737413,
+            "long": 85.4104706,
+            "google_id": "0x3a18c292cd8a69c3:0x7351a99cb37cf21",
+            "place_id": "ChIJw2mKzZLCGDoRIc83y5kaNQc",
+            "maps_url": "https://www.google.com/maps/preview/place/Bampa,+Odisha+759021/@20.6737413,85.4104706,3733a,13.1y/data=!4m2!3m1!1s0x3a18c292cd8a69c3:0x7351a99cb37cf21"
+          }
+        ]
+      },
+      {
+        "query": "Bampa, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bampa%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:31.971488+00:00",
+        "candidates": [
+          {
+            "name": "Bampa",
+            "address": "Bampa, Odisha 759021",
+            "lat": 20.6737413,
+            "long": 85.4104706,
+            "google_id": "0x3a18c292cd8a69c3:0x7351a99cb37cf21",
+            "place_id": "ChIJw2mKzZLCGDoRIc83y5kaNQc",
+            "maps_url": "https://www.google.com/maps/preview/place/Bampa,+Odisha+759021/@20.6737413,85.4104706,3733a,13.1y/data=!4m2!3m1!1s0x3a18c292cd8a69c3:0x7351a99cb37cf21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 51,
+      "District": "Dhenkanal",
+      "Block": "Hindol",
+      "Panchayat": "Giridhara Prasad",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Giridhara Prasad, Hindol, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Giridhara+Prasad%2C+Hindol%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:32.847601+00:00",
+        "candidates": [
+          {
+            "name": "Giridharprasad",
+            "address": "Giridharprasad, Odisha 759020",
+            "lat": 20.6900621,
+            "long": 85.3536735,
+            "google_id": "0x3a18c180b143d9b5:0x47c94887bb44a3de",
+            "place_id": "ChIJtdlDsYDBGDoR3qNEu4dIyUc",
+            "maps_url": "https://www.google.com/maps/preview/place/Giridharprasad,+Odisha+759020/@20.6900621,85.3536735,3732a,13.1y/data=!4m2!3m1!1s0x3a18c180b143d9b5:0x47c94887bb44a3de"
+          }
+        ]
+      },
+      {
+        "query": "Giridhara Prasad, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Giridhara+Prasad%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:33.920511+00:00",
+        "candidates": [
+          {
+            "name": "Giridharprasad",
+            "address": "Giridharprasad, Odisha 759020",
+            "lat": 20.6900621,
+            "long": 85.3536735,
+            "google_id": "0x3a18c180b143d9b5:0x47c94887bb44a3de",
+            "place_id": "ChIJtdlDsYDBGDoR3qNEu4dIyUc",
+            "maps_url": "https://www.google.com/maps/preview/place/Giridharprasad,+Odisha+759020/@20.6900621,85.3536735,3732a,13.1y/data=!4m2!3m1!1s0x3a18c180b143d9b5:0x47c94887bb44a3de"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 52,
+      "District": "Dhenkanal",
+      "Block": "Hindol",
+      "Panchayat": "Kantamila",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kantamila, Hindol, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kantamila%2C+Hindol%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:34.665569+00:00",
+        "candidates": [
+          {
+            "name": "Kantamila",
+            "address": "Kantamila, Odisha 759020",
+            "lat": 20.7147476,
+            "long": 85.2177763,
+            "google_id": "0x3a18bee2373bf17b:0x5226814964b1ed30",
+            "place_id": "ChIJe_E7N-K-GDoRMO2xZEmBJlI",
+            "maps_url": "https://www.google.com/maps/preview/place/Kantamila,+Odisha+759020/@20.7147476,85.2177763,3732a,13.1y/data=!4m2!3m1!1s0x3a18bee2373bf17b:0x5226814964b1ed30"
+          }
+        ]
+      },
+      {
+        "query": "Kantamila, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kantamila%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:35.785705+00:00",
+        "candidates": [
+          {
+            "name": "Kantamila",
+            "address": "Kantamila, Odisha 759020",
+            "lat": 20.7147476,
+            "long": 85.2177763,
+            "google_id": "0x3a18bee2373bf17b:0x5226814964b1ed30",
+            "place_id": "ChIJe_E7N-K-GDoRMO2xZEmBJlI",
+            "maps_url": "https://www.google.com/maps/preview/place/Kantamila,+Odisha+759020/@20.7147476,85.2177763,3732a,13.1y/data=!4m2!3m1!1s0x3a18bee2373bf17b:0x5226814964b1ed30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 53,
+      "District": "Dhenkanal",
+      "Block": "Gondia",
+      "Panchayat": "Joranda",
+      "Remarks": "LSFP",
+      "Generated": "Already generated & active",
+      "Comments": "Gondia block falls in tehsil - Dhenkanal"
+    },
+    "searches": [
+      {
+        "query": "Joranda, Gondia, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Joranda%2C+Gondia%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:36.840196+00:00",
+        "candidates": [
+          {
+            "name": "Joranda",
+            "address": "Joranda, Odisha 759014",
+            "lat": 20.787448899999998,
+            "long": 85.72820229999999,
+            "google_id": "0x3a1924587758eee7:0x14ed072e544ea88b",
+            "place_id": "ChIJ5-5Yd1gkGToRi6hOVC4H7RQ",
+            "maps_url": "https://www.google.com/maps/preview/place/Joranda,+Odisha+759014/@20.7874489,85.7282023,3730a,13.1y/data=!4m2!3m1!1s0x3a1924587758eee7:0x14ed072e544ea88b"
+          }
+        ]
+      },
+      {
+        "query": "Joranda, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Joranda%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:37.900942+00:00",
+        "candidates": [
+          {
+            "name": "Joranda",
+            "address": "Joranda, Odisha 759014",
+            "lat": 20.787448899999998,
+            "long": 85.72820229999999,
+            "google_id": "0x3a1924587758eee7:0x14ed072e544ea88b",
+            "place_id": "ChIJ5-5Yd1gkGToRi6hOVC4H7RQ",
+            "maps_url": "https://www.google.com/maps/preview/place/Joranda,+Odisha+759014/@20.7874489,85.7282023,3730a,13.1y/data=!4m2!3m1!1s0x3a1924587758eee7:0x14ed072e544ea88b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 54,
+      "District": "Dhenkanal",
+      "Block": "Gondia",
+      "Panchayat": "Khankira",
+      "Remarks": "LSFP",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Khankira, Gondia, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Khankira%2C+Gondia%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:38.994399+00:00",
+        "candidates": [
+          {
+            "name": "Khankira",
+            "address": "Khankira, Odisha",
+            "lat": 20.7269631,
+            "long": 85.9330098,
+            "google_id": "0x3a19409bee7b931b:0xab353aa164f7d03e",
+            "place_id": "ChIJG5N77ptAGToRPtD3ZKE6Nas",
+            "maps_url": "https://www.google.com/maps/preview/place/Khankira,+Odisha/@20.7269631,85.9330098,3732a,13.1y/data=!4m2!3m1!1s0x3a19409bee7b931b:0xab353aa164f7d03e"
+          }
+        ]
+      },
+      {
+        "query": "Khankira, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Khankira%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:40.062092+00:00",
+        "candidates": [
+          {
+            "name": "Khankira",
+            "address": "Khankira, Odisha",
+            "lat": 20.7269631,
+            "long": 85.9330098,
+            "google_id": "0x3a19409bee7b931b:0xab353aa164f7d03e",
+            "place_id": "ChIJG5N77ptAGToRPtD3ZKE6Nas",
+            "maps_url": "https://www.google.com/maps/preview/place/Khankira,+Odisha/@20.7269631,85.9330098,3732a,13.1y/data=!4m2!3m1!1s0x3a19409bee7b931b:0xab353aa164f7d03e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 55,
+      "District": "Dhenkanal",
+      "Block": "Gondia",
+      "Panchayat": "Mandar",
+      "Remarks": "control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Mandar, Gondia, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Mandar%2C+Gondia%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:41.108178+00:00",
+        "candidates": [
+          {
+            "name": "Mandara",
+            "address": "Mandara, Odisha 759016",
+            "lat": 20.850460599999998,
+            "long": 85.8572602,
+            "google_id": "0x3a1939fd1f90e40b:0xccb7108f50ee6edf",
+            "place_id": "ChIJC-SQH_05GToR327uUI8Qt8w",
+            "maps_url": "https://www.google.com/maps/preview/place/Mandara,+Odisha+759016/@20.8504606,85.8572602,3729a,13.1y/data=!4m2!3m1!1s0x3a1939fd1f90e40b:0xccb7108f50ee6edf"
+          }
+        ]
+      },
+      {
+        "query": "Mandar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Mandar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:41.854203+00:00",
+        "candidates": [
+          {
+            "name": "Mandara",
+            "address": "Mandara, Odisha 759016",
+            "lat": 20.850460599999998,
+            "long": 85.8572602,
+            "google_id": "0x3a1939fd1f90e40b:0xccb7108f50ee6edf",
+            "place_id": "ChIJC-SQH_05GToR327uUI8Qt8w",
+            "maps_url": "https://www.google.com/maps/preview/place/Mandara,+Odisha+759016/@20.8504606,85.8572602,3729a,13.1y/data=!4m2!3m1!1s0x3a1939fd1f90e40b:0xccb7108f50ee6edf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 56,
+      "District": "Dhenkanal",
+      "Block": "Gondia",
+      "Panchayat": "Gondia",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Gondia, Gondia, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Gondia%2C+Gondia%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:43.041393+00:00",
+        "candidates": [
+          {
+            "name": "Gondia",
+            "address": "Gondia, Odisha",
+            "lat": 20.8042713,
+            "long": 85.80766,
+            "google_id": "0x3a193bfff8120beb:0xece25dabd6e3c74c",
+            "place_id": "ChIJ6wsS-P87GToRTMfj1qtd4uw",
+            "maps_url": "https://www.google.com/maps/preview/place/Gondia,+Odisha/@20.8042713,85.80766,3730a,13.1y/data=!4m2!3m1!1s0x3a193bfff8120beb:0xece25dabd6e3c74c"
+          }
+        ]
+      },
+      {
+        "query": "Gondia, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Gondia%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:44.137658+00:00",
+        "candidates": [
+          {
+            "name": "Gondia",
+            "address": "Gondia, Odisha",
+            "lat": 20.8042713,
+            "long": 85.80766,
+            "google_id": "0x3a193bfff8120beb:0xece25dabd6e3c74c",
+            "place_id": "ChIJ6wsS-P87GToRTMfj1qtd4uw",
+            "maps_url": "https://www.google.com/maps/preview/place/Gondia,+Odisha/@20.8042713,85.80766,3730a,13.1y/data=!4m2!3m1!1s0x3a193bfff8120beb:0xece25dabd6e3c74c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 57,
+      "District": "Dhenkanal",
+      "Block": "Gondia",
+      "Panchayat": "Poruhakhoja",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Poruhakhoja, Gondia, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Poruhakhoja%2C+Gondia%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:44.854858+00:00",
+        "candidates": [
+          {
+            "name": "Poruhakhoja",
+            "address": "Poruhakhoja, Odisha 759016",
+            "lat": 20.7577025,
+            "long": 85.7884474,
+            "google_id": "0x3a193b61e07b0037:0x7e9c1644828493bf",
+            "place_id": "ChIJNwB74GE7GToRv5OEgkQWnH4",
+            "maps_url": "https://www.google.com/maps/preview/place/Poruhakhoja,+Odisha+759016/@20.7577025,85.7884474,3731a,13.1y/data=!4m2!3m1!1s0x3a193b61e07b0037:0x7e9c1644828493bf"
+          }
+        ]
+      },
+      {
+        "query": "Poruhakhoja, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Poruhakhoja%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:45.914095+00:00",
+        "candidates": [
+          {
+            "name": "Poruhakhoja",
+            "address": "Poruhakhoja, Odisha 759016",
+            "lat": 20.7577025,
+            "long": 85.7884474,
+            "google_id": "0x3a193b61e07b0037:0x7e9c1644828493bf",
+            "place_id": "ChIJNwB74GE7GToRv5OEgkQWnH4",
+            "maps_url": "https://www.google.com/maps/preview/place/Poruhakhoja,+Odisha+759016/@20.7577025,85.7884474,3731a,13.1y/data=!4m2!3m1!1s0x3a193b61e07b0037:0x7e9c1644828493bf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 58,
+      "District": "Dhenkanal",
+      "Block": "Gondia",
+      "Panchayat": "Bidharpur",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Bidharpur, Gondia, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bidharpur%2C+Gondia%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:46.981659+00:00",
+        "candidates": [
+          {
+            "name": "Bidharpur",
+            "address": "Bidharpur, Odisha 759016",
+            "lat": 20.7263181,
+            "long": 85.7820416,
+            "google_id": "0x3a193cc078aa7c49:0xd1d4f2d877a3c8b",
+            "place_id": "ChIJSXyqeMA8GToRizx6hy1PHQ0",
+            "maps_url": "https://www.google.com/maps/preview/place/Bidharpur,+Odisha+759016/@20.7263181,85.7820416,3732a,13.1y/data=!4m2!3m1!1s0x3a193cc078aa7c49:0xd1d4f2d877a3c8b"
+          }
+        ]
+      },
+      {
+        "query": "Bidharpur, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bidharpur%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:48.039343+00:00",
+        "candidates": [
+          {
+            "name": "Bidharpur",
+            "address": "Bidharpur, Odisha 759016",
+            "lat": 20.7263181,
+            "long": 85.7820416,
+            "google_id": "0x3a193cc078aa7c49:0xd1d4f2d877a3c8b",
+            "place_id": "ChIJSXyqeMA8GToRizx6hy1PHQ0",
+            "maps_url": "https://www.google.com/maps/preview/place/Bidharpur,+Odisha+759016/@20.7263181,85.7820416,3732a,13.1y/data=!4m2!3m1!1s0x3a193cc078aa7c49:0xd1d4f2d877a3c8b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 59,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Kadua",
+      "Remarks": "FES",
+      "Generated": "Already generated & active",
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kadua, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kadua%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:49.113767+00:00",
+        "candidates": [
+          {
+            "name": "Kadua",
+            "address": "Kadua, Odisha 759018",
+            "lat": 20.917629599999998,
+            "long": 85.5264614,
+            "google_id": "0x3a18d6b66bdf8019:0x7bde75f57bf18d46",
+            "place_id": "ChIJGYDfa7bWGDoRRo3xe_V13ns",
+            "maps_url": "https://www.google.com/maps/preview/place/Kadua,+Odisha+759018/@20.9176296,85.5264614,3727a,13.1y/data=!4m2!3m1!1s0x3a18d6b66bdf8019:0x7bde75f57bf18d46"
+          }
+        ]
+      },
+      {
+        "query": "Kadua, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kadua%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:50.150678+00:00",
+        "candidates": [
+          {
+            "name": "Kadua",
+            "address": "Kadua, Odisha 759018",
+            "lat": 20.917629599999998,
+            "long": 85.5264614,
+            "google_id": "0x3a18d6b66bdf8019:0x7bde75f57bf18d46",
+            "place_id": "ChIJGYDfa7bWGDoRRo3xe_V13ns",
+            "maps_url": "https://www.google.com/maps/preview/place/Kadua,+Odisha+759018/@20.9176296,85.5264614,3727a,13.1y/data=!4m2!3m1!1s0x3a18d6b66bdf8019:0x7bde75f57bf18d46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 60,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Analabereni",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Analabereni, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Analabereni%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:51.282847+00:00",
+        "candidates": [
+          {
+            "name": "Analabereni",
+            "address": "Analabereni, Odisha",
+            "lat": 20.8277005,
+            "long": 85.5560635,
+            "google_id": "0x3a18d9ca191a5e35:0x4cb2e2e6b7aaf907",
+            "place_id": "ChIJNV4aGcrZGDoRB_mqt-biskw",
+            "maps_url": "https://www.google.com/maps/preview/place/Analabereni,+Odisha/@20.8277005,85.5560635,3729a,13.1y/data=!4m2!3m1!1s0x3a18d9ca191a5e35:0x4cb2e2e6b7aaf907"
+          }
+        ]
+      },
+      {
+        "query": "Analabereni, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Analabereni%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:52.348934+00:00",
+        "candidates": [
+          {
+            "name": "Anlabereni",
+            "address": "Anlabereni, Odisha 759026",
+            "lat": 20.8163771,
+            "long": 85.5413157,
+            "google_id": "0x3a18d9be10892b4b:0xa4853c900fdf4055",
+            "place_id": "ChIJSyuJEL7ZGDoRVUDfD5A8haQ",
+            "maps_url": "https://www.google.com/maps/preview/place/Anlabereni,+Odisha+759026/@20.8163771,85.5413157,3729a,13.1y/data=!4m2!3m1!1s0x3a18d9be10892b4b:0xa4853c900fdf4055"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 61,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Baruan (K)",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Baruan (K), Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Baruan+%28K%29%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:53.181185+00:00",
+        "candidates": [
+          {
+            "name": "Baruan k",
+            "address": "QHVM+6PX Baruan k, Barunan, Mahulagoda, Odisha 759026",
+            "lat": 20.7931164,
+            "long": 85.5843601,
+            "google_id": "0x3a18d9cf41a3ef37:0xd11d52625e38bb87",
+            "place_id": "ChIJN--jQc_ZGDoRh7s4XmJSHdE",
+            "maps_url": "https://www.google.com/maps/preview/place/QHVM%2B6PX+Baruan+k,+Barunan,+Mahulagoda,+Odisha+759026/@20.7931164,85.5843601,3730a,13.1y/data=!4m2!3m1!1s0x3a18d9cf41a3ef37:0xd11d52625e38bb87"
+          }
+        ]
+      },
+      {
+        "query": "Baruan (K), Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Baruan+%28K%29%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:53.945474+00:00",
+        "candidates": []
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 62,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Kusumjodi",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kusumjodi, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kusumjodi%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:55.319548+00:00",
+        "candidates": [
+          {
+            "name": "Kusumajodi",
+            "address": "Kusumajodi, Odisha",
+            "lat": 20.8390618,
+            "long": 85.53547239999999,
+            "google_id": "0x3a18d9e7417b7e65:0x2e8371408bb7628",
+            "place_id": "ChIJZX57QefZGDoRKHa7CBQ36AI",
+            "maps_url": "https://www.google.com/maps/preview/place/Kusumajodi,+Odisha/@20.8390618,85.5354724,3729a,13.1y/data=!4m2!3m1!1s0x3a18d9e7417b7e65:0x2e8371408bb7628"
+          }
+        ]
+      },
+      {
+        "query": "Kusumjodi, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kusumjodi%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:56.594666+00:00",
+        "candidates": [
+          {
+            "name": "Kusumajodi",
+            "address": "Kusumajodi, Odisha",
+            "lat": 20.8390618,
+            "long": 85.53547239999999,
+            "google_id": "0x3a18d9e7417b7e65:0x2e8371408bb7628",
+            "place_id": "ChIJZX57QefZGDoRKHa7CBQ36AI",
+            "maps_url": "https://www.google.com/maps/preview/place/Kusumajodi,+Odisha/@20.8390618,85.5354724,3729a,13.1y/data=!4m2!3m1!1s0x3a18d9e7417b7e65:0x2e8371408bb7628"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 63,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Jagannathpur",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Jagannathpur, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Jagannathpur%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:57.745163+00:00",
+        "candidates": [
+          {
+            "name": "Jagannathpur",
+            "address": "Jagannathpur, Odisha",
+            "lat": 20.8923243,
+            "long": 85.6409178,
+            "google_id": "0x3a19285519ff9357:0xcae14b9b2685a25b",
+            "place_id": "ChIJV5P_GVUoGToRW6KFJptL4co",
+            "maps_url": "https://www.google.com/maps/preview/place/Jagannathpur,+Odisha/@20.8923243,85.6409178,3727a,13.1y/data=!4m2!3m1!1s0x3a19285519ff9357:0xcae14b9b2685a25b"
+          }
+        ]
+      },
+      {
+        "query": "Jagannathpur, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Jagannathpur%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:58.543603+00:00",
+        "candidates": [
+          {
+            "name": "Jagannathpur",
+            "address": "Jagannathpur, Nimidha, Odisha 759020",
+            "lat": 20.7499519,
+            "long": 85.35598089999999,
+            "google_id": "0x3a18c401ec082701:0xb9babd7b7a1d9326",
+            "place_id": "ChIJAScI7AHEGDoRJpMdenu9urk",
+            "maps_url": "https://www.google.com/maps/preview/place/Jagannathpur,+Nimidha,+Odisha+759020/@20.7499519,85.3559809,3731a,13.1y/data=!4m2!3m1!1s0x3a18c401ec082701:0xb9babd7b7a1d9326"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 64,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Kanapura",
+      "Remarks": "FES",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kanapura, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kanapura%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:10:59.623453+00:00",
+        "candidates": [
+          {
+            "name": "Kanapura Road",
+            "address": "Kanapura Road, Odisha 759018",
+            "lat": 20.9406018,
+            "long": 85.5560007,
+            "google_id": "0x3a18d428eb92166d:0x9f2c5e2ca759ae98",
+            "place_id": "ChIJbRaS6yjUGDoRmK5ZpyxeLJ8",
+            "maps_url": "https://www.google.com/maps/preview/place/Kanapura+Road,+Odisha+759018/@20.9406018,85.5560007,3726a,13.1y/data=!4m2!3m1!1s0x3a18d428eb92166d:0x9f2c5e2ca759ae98"
+          }
+        ]
+      },
+      {
+        "query": "Kanapura, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kanapura%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:00.695111+00:00",
+        "candidates": [
+          {
+            "name": "Kanapura Road",
+            "address": "Kanapura Road, Odisha 759018",
+            "lat": 20.9406018,
+            "long": 85.5560007,
+            "google_id": "0x3a18d428eb92166d:0x9f2c5e2ca759ae98",
+            "place_id": "ChIJbRaS6yjUGDoRmK5ZpyxeLJ8",
+            "maps_url": "https://www.google.com/maps/preview/place/Kanapura+Road,+Odisha+759018/@20.9406018,85.5560007,3726a,13.1y/data=!4m2!3m1!1s0x3a18d428eb92166d:0x9f2c5e2ca759ae98"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 65,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Badasuanlo",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Badasuanlo, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Badasuanlo%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:01.781553+00:00",
+        "candidates": [
+          {
+            "name": "Badasuanlo",
+            "address": "Badasuanlo, Odisha 759039",
+            "lat": 20.917374799999997,
+            "long": 85.6319245,
+            "google_id": "0x3a1929a2d81a7cab:0xfe1c8926d1a51344",
+            "place_id": "ChIJq3wa2KIpGToRRBOl0SaJHP4",
+            "maps_url": "https://www.google.com/maps/preview/place/Badasuanlo,+Odisha+759039/@20.9173748,85.6319245,3727a,13.1y/data=!4m2!3m1!1s0x3a1929a2d81a7cab:0xfe1c8926d1a51344"
+          }
+        ]
+      },
+      {
+        "query": "Badasuanlo, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Badasuanlo%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:02.858271+00:00",
+        "candidates": [
+          {
+            "name": "Badasuanlo",
+            "address": "Badasuanlo, Odisha 759039",
+            "lat": 20.917374799999997,
+            "long": 85.6319245,
+            "google_id": "0x3a1929a2d81a7cab:0xfe1c8926d1a51344",
+            "place_id": "ChIJq3wa2KIpGToRRBOl0SaJHP4",
+            "maps_url": "https://www.google.com/maps/preview/place/Badasuanlo,+Odisha+759039/@20.9173748,85.6319245,3727a,13.1y/data=!4m2!3m1!1s0x3a1929a2d81a7cab:0xfe1c8926d1a51344"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 66,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Baunsapal",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Baunsapal, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Baunsapal%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:03.994308+00:00",
+        "candidates": [
+          {
+            "name": "Baunsapal",
+            "address": "Baunsapal, Odisha",
+            "lat": 20.947091399999998,
+            "long": 85.5147849,
+            "google_id": "0x3a18d3f21d2f3091:0x5086c66acbd77b4d",
+            "place_id": "ChIJkTAvHfLTGDoRTXvXy2rGhlA",
+            "maps_url": "https://www.google.com/maps/preview/place/Baunsapal,+Odisha/@20.9470914,85.5147849,3726a,13.1y/data=!4m2!3m1!1s0x3a18d3f21d2f3091:0x5086c66acbd77b4d"
+          }
+        ]
+      },
+      {
+        "query": "Baunsapal, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Baunsapal%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:05.020725+00:00",
+        "candidates": [
+          {
+            "name": "Baunsapal",
+            "address": "Baunsapal, Odisha",
+            "lat": 20.947091399999998,
+            "long": 85.5147849,
+            "google_id": "0x3a18d3f21d2f3091:0x5086c66acbd77b4d",
+            "place_id": "ChIJkTAvHfLTGDoRTXvXy2rGhlA",
+            "maps_url": "https://www.google.com/maps/preview/place/Baunsapal,+Odisha/@20.9470914,85.5147849,3726a,13.1y/data=!4m2!3m1!1s0x3a18d3f21d2f3091:0x5086c66acbd77b4d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 67,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Tumusinga",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Tumusinga, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Tumusinga%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:06.104583+00:00",
+        "candidates": [
+          {
+            "name": "Tumusingha",
+            "address": "Tumusingha, Odisha 759026",
+            "lat": 20.802035999999998,
+            "long": 85.4839604,
+            "google_id": "0x3a18db075331b8ef:0x7d5aede3a3d3f54a",
+            "place_id": "ChIJ77gxUwfbGDoRSvXTo-PtWn0",
+            "maps_url": "https://www.google.com/maps/preview/place/Tumusingha,+Odisha+759026/@20.802036,85.4839604,3730a,13.1y/data=!4m2!3m1!1s0x3a18db075331b8ef:0x7d5aede3a3d3f54a"
+          }
+        ]
+      },
+      {
+        "query": "Tumusinga, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Tumusinga%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:07.204910+00:00",
+        "candidates": [
+          {
+            "name": "Tumusingha",
+            "address": "Tumusingha, Odisha 759026",
+            "lat": 20.802035999999998,
+            "long": 85.4839604,
+            "google_id": "0x3a18db075331b8ef:0x7d5aede3a3d3f54a",
+            "place_id": "ChIJ77gxUwfbGDoRSvXTo-PtWn0",
+            "maps_url": "https://www.google.com/maps/preview/place/Tumusingha,+Odisha+759026/@20.802036,85.4839604,3730a,13.1y/data=!4m2!3m1!1s0x3a18db075331b8ef:0x7d5aede3a3d3f54a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 68,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Kantio Kateni",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Kantio Kateni, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kantio+Kateni%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:08.330467+00:00",
+        "candidates": []
+      },
+      {
+        "query": "Kantio Kateni, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Kantio+Kateni%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:09.368609+00:00",
+        "candidates": [
+          {
+            "name": "Kantio Kateni",
+            "address": "Kantio Kateni, Parjang-Pandua Rd, Tumusingha, Odisha 759026",
+            "lat": 20.802171599999998,
+            "long": 85.4976684,
+            "google_id": "0x3a18da4a2651178f:0xf07f7fa3245db599",
+            "place_id": "ChIJjxdRJkraGDoRmbVdJKN_f_A",
+            "maps_url": null
+          },
+          {
+            "name": "Kantio Kateni",
+            "address": "Kantio Kateni, Tumusingha, Odisha 759026",
+            "lat": 20.8021653,
+            "long": 85.4977688,
+            "google_id": "0x3a18da4a26bfc2d3:0x8d07b321fa220134",
+            "place_id": "ChIJ08K_JkraGDoRNAEi-iGzB40",
+            "maps_url": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 69,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Bhairipur",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Bhairipur, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bhairipur%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:10.205113+00:00",
+        "candidates": [
+          {
+            "name": "Kamakhyanagar",
+            "address": "Kamakhyanagar, Odisha",
+            "lat": 20.9228602,
+            "long": 85.5560635,
+            "google_id": "0x3a18d685978a4e97:0xb041364e920969d1",
+            "place_id": "ChIJl06Kl4XWGDoR0WkJkk42QbA",
+            "maps_url": null
+          },
+          {
+            "name": "Bhairapur R",
+            "address": "Bhairapur R, Odisha",
+            "lat": 20.8384014,
+            "long": 85.62549969999999,
+            "google_id": "0x3a1927de0a67e0b9:0xe002e155ed686dc9",
+            "place_id": "ChIJueBnCt4nGToRyW1o7VXhAuA",
+            "maps_url": null
+          },
+          {
+            "name": "Kamakhyanagar Block Office",
+            "address": "WGJV+RC8 Kamakhyanagar Block Office, Jagannath Bazar Rd, Kamakhyanagar, Odisha 759018",
+            "lat": 20.9320415,
+            "long": 85.5435634,
+            "google_id": "0x3a18d69903f92d0d:0xca447529941e75d5",
+            "place_id": "ChIJDS35A5nWGDoR1XUelCl1RMo",
+            "maps_url": null
+          },
+          {
+            "name": "Bhairapur L",
+            "address": "Bhairapur L, Odisha 759023",
+            "lat": 20.8266366,
+            "long": 85.6306396,
+            "google_id": "0x3a1927b89378a34d:0xa4405acf147294fc",
+            "place_id": "ChIJTaN4k7gnGToR_JRyFM9aQKQ",
+            "maps_url": null
+          }
+        ]
+      },
+      {
+        "query": "Bhairipur, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Bhairipur%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:11.382840+00:00",
+        "candidates": []
+      }
+    ]
+  },
+  {
+    "row": {
+      "Sr. No.": 70,
+      "District": "Dhenkanal",
+      "Block": "Kamakhyanagar",
+      "Panchayat": "Sogar",
+      "Remarks": "Control",
+      "Generated": null,
+      "Comments": null
+    },
+    "searches": [
+      {
+        "query": "Sogar, Kamakhyanagar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sogar%2C+Kamakhyanagar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:12.446291+00:00",
+        "candidates": [
+          {
+            "name": "Sogar",
+            "address": "Sogar, Odisha",
+            "lat": 20.769547,
+            "long": 85.60750639999999,
+            "google_id": "0x3a18d8a65823fe09:0xbf3ecac17411d787",
+            "place_id": "ChIJCf4jWKbYGDoRh9cRdMHKPr8",
+            "maps_url": "https://www.google.com/maps/preview/place/Sogar,+Odisha/@20.769547,85.6075064,3731a,13.1y/data=!4m2!3m1!1s0x3a18d8a65823fe09:0xbf3ecac17411d787"
+          }
+        ]
+      },
+      {
+        "query": "Sogar, Dhenkanal, Odisha, India",
+        "source_url": "https://www.google.com/search?tbm=map&q=Sogar%2C+Dhenkanal%2C+Odisha%2C+India&hl=en",
+        "retrieved_utc": "2026-09-24T08:11:13.513045+00:00",
+        "candidates": [
+          {
+            "name": "Sogar",
+            "address": "Sogar, Odisha",
+            "lat": 20.769547,
+            "long": 85.60750639999999,
+            "google_id": "0x3a18d8a65823fe09:0xbf3ecac17411d787",
+            "place_id": "ChIJCf4jWKbYGDoRh9cRdMHKPr8",
+            "maps_url": "https://www.google.com/maps/preview/place/Sogar,+Odisha/@20.769547,85.6075064,3731a,13.1y/data=!4m2!3m1!1s0x3a18d8a65823fe09:0xbf3ecac17411d787"
+          }
+        ]
+      }
+    ]
+  }
+]
